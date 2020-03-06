@@ -46,6 +46,8 @@ async function cp_readme_md() {
 
 // 将README.md内的图片下载到README文件夹
 async function download_imgs_by_md(file_name) {
+
+  console.log("=download_imgs_by_md===",file_name);
   // 获取文件夹名称
 
   let dir_name = file_name.match(/^(.*).md/)[1];
@@ -62,22 +64,27 @@ async function download_imgs_by_md(file_name) {
     let md_img_addr_s_length = (md_img_addr_s ? md_img_addr_s: []).length;
     let img_re = /^!\[(.*)\]\((.*)\)/;
 
+    console.log("===length===>>", md_img_addr_s_length);
+
     for (let i = 0; i < md_img_addr_s_length; i++) {
       let download_img = true;
 
-      for (let t = 0; t < (ignore_img_list?ignore_img_list:[]).length; t++) {
+      for (let t = 0; t < ignore_img_list.length; t++) {
         if (md_img_addr_s[i].indexOf(ignore_img_list[t]) !== -1) {
           download_img = false;
         }
       }
 
+      console.log("~~~download_img::::", download_img);
+
       if (download_img) {
         let img_addr = md_img_addr_s[i].match(img_re)[2];
+        console.log("img_addr img_addr img_addr img_addr==>>", img_addr);
         // 定义文件名
         let img_addr_list = img_addr.split("/");
-        if(!(img_addr_list)){
-
-        img_name = img_addr_list[(img_addr_list?img_addr_list:[]).length - 1];
+        console.log("img_addr_list img_addr_list img_addr_list img_addr_list==>>", img_addr_list);
+        if((img_addr_list)){
+        img_name = img_addr_list[img_addr_list.length - 1];
         console.log("正在下载>>>", img_addr);
         fs.writeFileSync(
           path.join(__dirname, dir_name, img_name),
@@ -96,7 +103,6 @@ async function change_img_url(file_name) {
   let img_addr_re = /\!\[.*\]\(.*\)/g;
   let md_img_addr_s = file_content.match(img_addr_re);
   
-  console.log("====>>>>>md_img_addr_s===", md_img_addr_s);
   if(md_img_addr_s !== null){
   let md_img_addr_s_length = md_img_addr_s.length;
   let img_re = /^!\[(.*)\]\((.*)\)/;
