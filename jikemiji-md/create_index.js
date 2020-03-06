@@ -1,24 +1,20 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 const fse = require("fs-extra");
 
-
-let default_title = "公众号「0加1」"
+let default_title = "公众号「0加1」";
 
 // 真实readme的位置
-let true_readme_md = "readme-jikemiji.md"
-
+let true_readme_md = "readme-jikemiji.md";
 
 // 开始的符号
 
 let start_mark = "---start---";
 
-
 // 结束的符号
 
 let end_mark = "---end---";
-
 
 // 排除列表
 let exclude_md_files = [];
@@ -42,10 +38,6 @@ function get_md_file_list() {
   });
   return all_md_files;
 }
-
-
-
-
 
 // 获取头部信息
 
@@ -84,103 +76,85 @@ function get_top_info(md_file_pathname, key) {
   }
 }
 
-function create_index_info(title_and_filename_list){
-
+function create_index_info(title_and_filename_list) {
   let index_info = "";
 
   let title_and_filename_list_length = title_and_filename_list.length;
 
-
-  for(let m =0 ; m<title_and_filename_list_length; m++){
-
-    let filename_no_md = title_and_filename_list[m]["filename"].replace(".md","");
-
-
-
-    let index_info_atom = "["+title_and_filename_list[m]["title"]+"](https://www.v2fy.com/p/"+filename_no_md+"/)\n";
-
-
-    index_info = index_info+index_info_atom;
-
-
-
-
-
-    
-
+  for (let m = 0; m < title_and_filename_list_length; m++) {
+    let filename_no_md = title_and_filename_list[m]["filename"].replace(
+      ".md",
+      ""
+    );
+    let index_info_atom =
+      "\n[" +
+      title_and_filename_list[m]["title"] +
+      "](https://www.v2fy.com/p/" +
+      filename_no_md +
+      "/)\n";
+    index_info = index_info + index_info_atom;
   }
-
 
   console.log("index_info==>>", index_info);
 
   return index_info;
-
-
-
-
-
 }
 
+async function replace_index_info(index_info) {
+
+    // 获取README中需要被替换的部分
+    let readme_content = fse
+      .readFileSync(path.join(__dirname, true_readme_md))
+      .toString();
+    let start_index = readme_content.indexOf(start_mark);
+    let end_index = readme_content.indexOf(end_mark);
+    let old_content = readme_content.slice(start_index, end_index);
+
+    // 获取生成的数据
+    let new_content = index_info;
+
+    // 替换内容
+    readme_content = readme_content.replace(
+      old_content,
+      start_mark + "\n" + new_content
+    );
+
+    console.log("===readme_content===>>>",readme_content)
+
+    await fs.writeFileSync(path.join(__dirname, true_readme_md), readme_content);
+
+    
 
 
-function replace_index_info(index_info){
+    console.log("--README生成成功===>>", String(fs.readFileSync(path.join(__dirname, true_readme_md))));
 
-          // 获取README中需要被替换的部分
-          let readme_content = fse.readFileSync(true_readme_md).toString();
-          let start_index = readme_content.indexOf(start_mark);
-          let end_index = readme_content.indexOf(end_mark);
-          let old_content = readme_content.slice(start_index, end_index);
-  
-  
-  
-          // 获取生成的数据
-          let new_content = index_info;
-  
-          // 替换内容
-          readme_content = readme_content.replace(old_content, start_mark+"\n"+new_content);
-  
-          fse.writeFileSync(true_readme_md, readme_content);
-          console.log("README生成成功");
+    return new_content;
 }
-
 
 async function main() {
   let all_md_files = get_md_file_list();
   let all_md_files_length = all_md_files.length;
 
-
   let title_and_filename_list = [];
 
-  for(let i =0 ;i<all_md_files_length; i++){
+  for (let i = 0; i < all_md_files_length; i++) {
     let title = get_top_info(all_md_files[i], "title");
-    if(!(title)){
+    if (!title) {
       title = default_title;
     }
-    console.log("title===>>", title, "===>>",all_md_files[i])
+    console.log("title===>>", title, "===>>", all_md_files[i]);
 
     let tmp_title_and_filename = {
-      "title": title,
-      "filename": all_md_files[i]
-    }
+      title: title,
+      filename: all_md_files[i]
+    };
 
     title_and_filename_list.push(tmp_title_and_filename);
   }
 
   let index_info = create_index_info(title_and_filename_list);
 
-
-
-  replace_index_info(index_info);
-
-
-
-
-
-
-
-
-  
-
+  await replace_index_info(index_info);
 }
 
 main();

@@ -35,10 +35,15 @@ async function cp_readme_md() {
   );
 
   let target_readme_file_pathname = path.join(__dirname, "README.md");
-  console.log("拷贝==README.md",origin_readme_file_pathname,target_readme_file_pathname)
-  fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
+  console.log("拷贝==README.md",origin_readme_file_pathname, target_readme_file_pathname);
+
+  console.log("拷贝之前读取===>>", String(fse.readFileSync(origin_readme_file_pathname)));
+  await fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
     overwrite: true
   });
+
+  console.log("====!!!!!!!拷贝之后读取===>>", String(fse.readFileSync(target_readme_file_pathname)));
+
   await download_imgs_by_md("README.md");
   await change_img_url("README.md");
 }
@@ -143,21 +148,29 @@ async function md_to_wordpress() {
 }
 
 async function create_index() {
-  const run_build = spawn("node", ["create_index.js"], {
-    cwd: path.join(__dirname, zhaoolee_md_dir)
-  });
+  return new Promise((resolve, reject) => {
 
-  run_build.stdout.on("data", async data => {
-    console.log(`stdout: ${data}`);
-  });
+    const run_build = spawn("node", ["create_index.js"], {
+      cwd: path.join(__dirname, zhaoolee_md_dir)
+    });
+  
+    run_build.stdout.on("data", async data => {
+      console.log(`stdout: ${data}`);
+    });
+  
+    run_build.stderr.on("data", async data => {
+      console.log("data::", String(data));
+    });
+  
+    run_build.on("close", async code => {
+      console.log("程序执行完成");
+      resolve();
+    });
 
-  run_build.stderr.on("data", async data => {
-    console.log("data::", String(data));
-  });
 
-  run_build.on("close", async code => {
-    console.log("程序执行完成");
-  });
+
+  })
+
 }
 
 // 进入项目名加MD文件夹,执行md_to_wordpress
