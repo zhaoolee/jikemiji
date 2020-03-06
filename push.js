@@ -35,14 +35,10 @@ async function cp_readme_md() {
   );
 
   let target_readme_file_pathname = path.join(__dirname, "README.md");
-  console.log("拷贝==README.md",origin_readme_file_pathname, target_readme_file_pathname);
-
-  console.log("拷贝之前读取===>>", String(fse.readFileSync(origin_readme_file_pathname)));
   await fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
     overwrite: true
   });
 
-  console.log("====!!!!!!!拷贝之后读取===>>", String(fse.readFileSync(target_readme_file_pathname)));
 
   await download_imgs_by_md("README.md");
   await change_img_url("README.md");
@@ -60,10 +56,10 @@ async function download_imgs_by_md(file_name) {
 
   
 
-  if (md_img_addr_s !== null) {
 
-    console.log("===ssss......", md_img_addr_s === null)
-    let md_img_addr_s_length = (md_img_addr_s?md_img_addr_s:[]).length;
+  console.log("===md_img_addr_smd_img_addr_smd_img_addr_s===>>>", md_img_addr_s);
+
+    let md_img_addr_s_length = (md_img_addr_s ? md_img_addr_s: []).length;
     let img_re = /^!\[(.*)\]\((.*)\)/;
 
     for (let i = 0; i < md_img_addr_s_length; i++) {
@@ -87,12 +83,10 @@ async function download_imgs_by_md(file_name) {
           path.join(__dirname, dir_name, img_name),
           await download(img_addr)
         );
-
-
       }
       }
     }
-  }
+  
 }
 
 // 更换url

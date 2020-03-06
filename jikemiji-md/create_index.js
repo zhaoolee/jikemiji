@@ -119,12 +119,8 @@ async function replace_index_info(index_info) {
       start_mark + "\n" + new_content
     );
 
-    console.log("===readme_content===>>>",readme_content)
-
     await fs.writeFileSync(path.join(__dirname, true_readme_md), readme_content);
 
-
-    console.log("--README生成成功===>>", String(fs.readFileSync(path.join(__dirname, true_readme_md))));
 
     return new_content;
 }
@@ -140,7 +136,6 @@ async function main() {
     if (!title) {
       title = default_title;
     }
-    console.log("title===>>", title, "===>>", all_md_files[i]);
 
     let tmp_title_and_filename = {
       title: title,
