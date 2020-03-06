@@ -91,7 +91,7 @@ function create_index_info(title_and_filename_list) {
       title_and_filename_list[m]["title"] +
       "](https://www.v2fy.com/p/" +
       filename_no_md +
-      "/)\n";
+      "/)\n\n";
     index_info = index_info + index_info_atom;
   }
 
@@ -122,8 +122,6 @@ async function replace_index_info(index_info) {
     console.log("===readme_content===>>>",readme_content)
 
     await fs.writeFileSync(path.join(__dirname, true_readme_md), readme_content);
-
-    
 
 
     console.log("--README生成成功===>>", String(fs.readFileSync(path.join(__dirname, true_readme_md))));
