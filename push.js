@@ -33,7 +33,9 @@ async function cp_readme_md() {
     zhaoolee_md_dir,
     readme_file_name
   );
-  let target_readme_file_pathname = path.join(__dirname, "README" + ".md");
+
+  console.log("拷贝==README.md")
+  let target_readme_file_pathname = path.join(__dirname, "README.md");
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
     overwrite: true
   });
