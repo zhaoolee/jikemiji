@@ -1,0 +1,27 @@
+{
+  "name": "jikemiji",
+  "version": "1.0.0",
+  "description": "极客秘籍，让小白变极客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "node push.js && git add . && git commit -m 'ok' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoolee/jikemiji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoolee/jikemiji/issues"
+  },
+  "homepage": "https://github.com/zhaoolee/jikemiji#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "download": "^7.1.0",
+    "fs-extra": "^8.1.0",
+    "showdown": "^1.9.1"
+  }
+}
