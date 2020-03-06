@@ -34,8 +34,8 @@ async function cp_readme_md() {
     readme_file_name
   );
 
-  console.log("拷贝==README.md")
   let target_readme_file_pathname = path.join(__dirname, "README.md");
+  console.log("拷贝==README.md",origin_readme_file_pathname,target_readme_file_pathname)
   fse.copySync(origin_readme_file_pathname, target_readme_file_pathname, {
     overwrite: true
   });
