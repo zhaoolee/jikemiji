@@ -1,6 +1,6 @@
 # 公众号「0加1」
 
-程序员也要写一个有趣的公众号
+程序员要写一个有趣的公众号
 
 ![](https://www.v2fy.com/asset/README/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
@@ -25,9 +25,16 @@
 | 表情包 | 表情包的文化探索 |
 
 
-## Markdown转微信公众号工具
+## 本仓库完成的自动化
 
-[https://doocs.github.io/md/](https://doocs.github.io/md/)
+- 自动生成文章目录,并附带超链接
+
+- 自动同步[jikemiji-md](https://github.com/zhaoolee/jikemiji/tree/master/jikemiji-md)内`.md`文件到[Wordpress站点](https://www.v2fy.com/)
+
+
+## 公众号相关工具
+
+[Markdown转微信公众号工具](https://doocs.github.io/md/)
 
 
 
