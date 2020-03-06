@@ -8,7 +8,6 @@
 
 ---start---
 [公众号「0加1」](https://www.v2fy.com/p/readme-jikemiji/)
-[带你入坑创意工作者的集散地v2ex!](https://www.v2fy.com/p/website-00001-v2ex/)
 ---end---
 
 |文章前缀 | 内容分类 |

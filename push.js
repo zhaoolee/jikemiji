@@ -161,9 +161,9 @@ async function create_index() {
 // 进入项目名加MD文件夹,执行md_to_wordpress
 
 async function main() {
+  await create_index();
   await cp_readme_md();
   await md_to_wordpress();
-  await create_index();
 }
 
 main();
