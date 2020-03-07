@@ -14,7 +14,7 @@ let readme_img_dir =
 let zhaoolee_md_dir = "jikemiji-md";
 
 // readme文件名
-let readme_file_name = "readme-jikemiji.md";
+let readme_file_name = "000readme-jikemiji.md";
 
 // 可以跳过的图片地址关键词
 let ignore_img_list = ["img.shields.io", "www.bilibili.com"];
