@@ -15,6 +15,9 @@
 
 [公众号「0加1」](https://www.v2fy.com/p/readme-jikemiji/)
 
+
+[如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
+
 ---end---
 
 | 文章前缀 | 内容分类 |
