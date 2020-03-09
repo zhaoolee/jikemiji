@@ -10,13 +10,16 @@
 
 ---start---
 
+[公众号「0加1」](https://www.v2fy.com/p/000readme-jikemiji/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
-[公众号「0加1」](https://www.v2fy.com/p/readme-jikemiji/)
-
-
 [如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
+
+
+[罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 ---end---
 
