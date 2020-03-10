@@ -21,6 +21,9 @@
 
 [《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
+
+[《PPT》罗永浩最搞笑的几张PPT](https://www.v2fy.com/p/speech-000002-lyh/)
+
 ---end---
 
 | 文章前缀 | 内容分类 |
