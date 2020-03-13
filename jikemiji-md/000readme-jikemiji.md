@@ -19,7 +19,10 @@
 [《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
-[《优秀软件》Windows免费好用软件推荐](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand/)
+[《优秀软件》Windows免费好用软件推荐(第一期)](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand/)
+
+
+[《优秀软件》Windows免费好用软件推荐(第一期)完整软件资源整理包](https://www.v2fy.com/p/soft-000003-windows10-softs-recommand-all/)
 
 
 [《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
@@ -29,6 +32,12 @@
 
 
 [《资源网站》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
+
+
+[《最新插画》获取最新插画](https://www.v2fy.com/p/website-000002-pixiv/)
+
+
+[公众号「0加1」](https://www.v2fy.com/p/website-000003-addog/)
 
 ---end---
 
