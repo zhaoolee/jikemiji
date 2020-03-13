@@ -19,6 +19,9 @@
 [《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
+[《优秀软件》Windows免费好用软件推荐](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand/)
+
+
 [《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
