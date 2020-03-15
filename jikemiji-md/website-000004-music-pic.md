@@ -25,7 +25,7 @@ title: 《Chrome妙用》获取网易云音乐超清专辑封面
 
 ## 获取专辑封面链接
 
-选择ＮetWork->Img->Preview, 找出专辑图片的链接，讲图片链接中尾部`?`及后面的字符串删除
+选择ＮetWork->Img->Preview, 找出专辑图片的链接，将图片链接中尾部`?`及后面的字符串删除
 
 
 ![](https://www.v2fy.com/asset/net-music-pic/003.png)
