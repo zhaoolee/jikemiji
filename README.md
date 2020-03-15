@@ -44,12 +44,64 @@
 
 ---end---
 
-| 文章前缀 | 内容分类 |
-| --- | --- |
-| 入网 | 带你入坑优质网站 |
-| 优软 | 优质软件评测 |
-| 弹幕 | 神弹幕-弹幕护体 |
-| 表情包 | 表情包的文化探索 |
+
+
+[公众号「0加1」](https://www.v2fy.com/p/000readme-jikemiji/)
+
+
+##　[《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/nuojiya.png)
+
+
+## [《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
+
+![font 2019-06-15 16_04_10](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/59549312-4529b500-8f8e-11e9-8107-004486a02258.gif)
+
+
+## [《优秀软件》Windows免费好用软件推荐(第一期)](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand/)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/pixiv.png)
+
+
+## [《优秀软件》Windows免费好用软件推荐(第一期)完整软件资源整理包](https://www.v2fy.com/p/soft-000003-windows10-softs-recommand-all/)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/9.png)
+
+## [《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/ruchao.gif)
+
+
+## [《PPT》罗永浩最搞笑的几张PPT](https://www.v2fy.com/p/speech-000002-lyh/)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/lyh-fzz.gif)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/xiaoluohao.gif)
+
+
+##  [《资源网站》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/huoying.gif)
+
+
+
+## [《最新插画》获取Pixiv最新插画](https://www.v2fy.com/p/website-000002-pixiv/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/pixiv460.gif)
+
+
+## [《Chrome妙用》获取网易云音乐超清专辑封面](https://www.v2fy.com/p/website-000004-music-pic/)
+
+
+
+<video id="video" controls="" preload="none" poster="https://www.v2fy.com/asset/net-music-pic/000.png">
+      <source id="mp4" src="https://www.v2fy.com/asset/net-music-pic/net.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 
 
 ## 本仓库完成的自动化
