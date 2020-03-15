@@ -34,7 +34,7 @@
 [《资源网站》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
 
 
-[《最新插画》获取最新插画](https://www.v2fy.com/p/website-000002-pixiv/)
+[《最新插画》获取Pixiv最新插画](https://www.v2fy.com/p/website-000002-pixiv/)
 
 
 [公众号「0加1」](https://www.v2fy.com/p/website-000003-addog/)
