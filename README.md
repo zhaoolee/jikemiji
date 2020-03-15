@@ -40,7 +40,7 @@
 [公众号「0加1」](https://www.v2fy.com/p/website-000003-addog/)
 
 
-[公众号「0加1」](https://www.v2fy.com/p/website-000004-music-pic/)
+[《Chrome妙用》获取网易云音乐超清专辑封面](https://www.v2fy.com/p/website-000004-music-pic/)
 
 ---end---
 
