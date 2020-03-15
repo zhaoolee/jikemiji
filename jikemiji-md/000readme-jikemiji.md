@@ -49,7 +49,7 @@
 [公众号「0加1」](https://www.v2fy.com/p/000readme-jikemiji/)
 
 
-##　[《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
+##  [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
 ![](https://www.v2fy.com/asset/barrage-000001/nuojiya.png)
@@ -95,12 +95,7 @@
 
 ## [《Chrome妙用》获取网易云音乐超清专辑封面](https://www.v2fy.com/p/website-000004-music-pic/)
 
-
-
-<video id="video" controls="" preload="none" poster="https://www.v2fy.com/asset/net-music-pic/000.png">
-      <source id="mp4" src="https://www.v2fy.com/asset/net-music-pic/net.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+![](https://www.v2fy.com/asset/net-music-pic/004.png)
 
 
 
