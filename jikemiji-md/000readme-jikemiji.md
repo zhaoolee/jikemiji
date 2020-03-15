@@ -37,7 +37,7 @@
 [《最新插画》获取Pixiv最新插画](https://www.v2fy.com/p/website-000002-pixiv/)
 
 
-[公众号「0加1」](https://www.v2fy.com/p/website-000003-addog/)
+[《addog》网站百宝箱](https://www.v2fy.com/p/website-000003-addog/)
 
 
 [《Chrome妙用》获取网易云音乐超清专辑封面](https://www.v2fy.com/p/website-000004-music-pic/)
