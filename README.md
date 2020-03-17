@@ -25,6 +25,9 @@
 [《优秀软件》Windows免费好用软件推荐(第一期)完整软件资源整理包](https://www.v2fy.com/p/soft-000003-windows10-softs-recommand-all/)
 
 
+[《优秀软件》Windows免费好用软件推荐(第二期)](https://www.v2fy.com/p/soft-000004-windows10-softs-recommand/)
+
+
 [《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
