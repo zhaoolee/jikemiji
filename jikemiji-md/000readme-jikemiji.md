@@ -45,6 +45,9 @@
 
 [《Chrome妙用》获取网易云音乐超清专辑封面](https://www.v2fy.com/p/website-000004-music-pic/)
 
+
+[插画P站最受男性喜欢排行榜资源(送福利1600张)](https://www.v2fy.com/p/website-000005-pixiv/)
+
 ---end---
 
 
