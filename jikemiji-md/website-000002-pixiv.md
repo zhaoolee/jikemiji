@@ -1,5 +1,5 @@
 ---
-title: 002《资源》获取Pixiv最新插画
+title: W002《资源》获取Pixiv最新插画
 ---
 
 [https://www.pixiv.net](https://www.pixiv.net)
