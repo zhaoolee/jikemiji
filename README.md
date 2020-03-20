@@ -20,9 +20,6 @@
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
-[Kr001《0加1氪》不氪*怎么能变强呢?](https://www.v2fy.com/p/kr-000001-me/)
-
-
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
