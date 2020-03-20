@@ -1,9 +1,13 @@
 # 公众号「0加1」
 
-程序员要写一个有趣的公众号
+东半球排名第一的「极客不黑类」公众号
 
 ![](https://www.v2fy.com/asset/README/73356546-94321980-42d5-11ea-94cc-a8f60e0e1985.gif)
 
+
+## 公众号相关工具
+
+[Markdown转微信公众号工具](https://doocs.github.io/md/)
 
 
 ## 目录
@@ -14,6 +18,9 @@
 
 
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
+
+
+[Kr001《0加1氪》不氪*怎么能变强呢?](https://www.v2fy.com/p/kr-000001-me/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
@@ -112,10 +119,6 @@
 
 - 自动同步[jikemiji-md](https://github.com/zhaoolee/jikemiji/tree/master/jikemiji-md)内`.md`文件到[Wordpress站点](https://www.v2fy.com/)
 
-
-## 公众号相关工具
-
-[Markdown转微信公众号工具](https://doocs.github.io/md/)
 
 
 
