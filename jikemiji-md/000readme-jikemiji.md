@@ -56,7 +56,7 @@
 [W005《资源》插画P站最受男性喜欢排行榜资源(送福利1600张)](https://www.v2fy.com/p/website-000005-pixiv/)
 
 
-[Win001《Windows使用技巧》如何让Windows复制粘贴更好用](https://www.v2fy.com/p/windows-000001-copy-parse/)
+[Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://www.v2fy.com/p/windows-000001-copy-parse/)
 
 ---end---
 
