@@ -41,6 +41,9 @@
 [SP002《PPT》罗永浩最搞笑的几张PPT](https://www.v2fy.com/p/speech-000002-lyh/)
 
 
+[K001《昭昭的奇妙工具》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/tips-000001/)
+
+
 [W001《资源》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
 
 
