@@ -47,6 +47,9 @@
 [K001《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/tips-000001/)
 
 
+[K002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/tips-000002-ｍouseinc/)
+
+
 [W001《资源》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
 
 
