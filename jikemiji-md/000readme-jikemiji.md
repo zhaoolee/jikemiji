@@ -20,6 +20,9 @@
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
+[看光头识人物](https://www.v2fy.com/p/kr-000002-guangtou/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
@@ -57,6 +60,9 @@
 
 
 [W005《资源》插画P站最受男性喜欢排行榜资源(送福利1600张)](https://www.v2fy.com/p/website-000005-pixiv/)
+
+
+[Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://www.v2fy.com/p/windows-000001-copy-parse/)
 
 ---end---
 
