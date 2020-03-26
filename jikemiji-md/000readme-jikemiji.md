@@ -20,6 +20,9 @@
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
+[G001你见过最骚气的gif图是什么？](https://www.v2fy.com/p/gif-000001-sao1/)
+
+
 [看光头识人物](https://www.v2fy.com/p/kr-000002-guangtou/)
 
 
@@ -63,6 +66,9 @@
 
 
 [W005《资源》插画P站最受男性喜欢排行榜资源(送福利1600张)](https://www.v2fy.com/p/website-000005-pixiv/)
+
+
+[W006《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://www.v2fy.com/p/website-000006-beauty/)
 
 
 [Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://www.v2fy.com/p/windows-000001-copy-parse/)
