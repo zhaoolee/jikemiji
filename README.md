@@ -41,6 +41,9 @@
 [S005《优秀软件》一键批量下载蓝奏云43个文件](https://www.v2fy.com/p/soft-000005-lanzou-download/)
 
 
+[W007《蓝奏云》批量下载蓝奏云 分卷压缩包 并解压](https://www.v2fy.com/p/soft-000007-lanzou-downlaod/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
