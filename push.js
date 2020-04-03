@@ -85,11 +85,15 @@ async function download_imgs_by_md(file_name) {
         console.log("img_addr_list img_addr_list img_addr_list img_addr_list==>>", img_addr_list);
         if((img_addr_list)){
         img_name = img_addr_list[img_addr_list.length - 1];
-        console.log("正在下载>>>", img_addr);
-        fs.writeFileSync(
-          path.join(__dirname, dir_name, img_name),
-          await download(img_addr)
-        );
+
+          if (!fs.existsSync(path.join(__dirname, dir_name, img_name))) {
+
+            console.log("正在下载>>>", img_addr);
+            fs.writeFileSync(
+                path.join(__dirname, dir_name, img_name),
+                await download(img_addr)
+            );
+          }
       }
       }
     }
