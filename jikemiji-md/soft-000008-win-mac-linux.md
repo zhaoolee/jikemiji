@@ -169,6 +169,7 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 ![](https://www.v2fy.com/asset/jili/11.png)
 
 
+
 ![](https://www.v2fy.com/asset/jili/mockup00015.jpg)
 
 
