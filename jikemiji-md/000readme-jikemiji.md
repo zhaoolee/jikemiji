@@ -44,6 +44,15 @@
 [W007《蓝奏云》批量下载蓝奏云 分卷压缩包 并解压](https://www.v2fy.com/p/soft-000007-lanzou-downlaod/)
 
 
+[W008《跨平台》跨平台免费软件工具推荐](https://www.v2fy.com/p/soft-000008-win-mac-linux/)
+
+
+[W009《绿色软件网站》一些比较好的绿色软件网站(有淘宝店的可以倒卖赚外快)](https://www.v2fy.com/p/soft-000009-find-crack/)
+
+
+[W010《绿色软件网站》国内「硬朗」的免费绿色软件网站](https://www.v2fy.com/p/soft-000010-h-17-d/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
