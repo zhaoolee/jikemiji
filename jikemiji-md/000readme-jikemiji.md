@@ -53,6 +53,9 @@
 [W010《绿色软件网站》国内「硬朗」的免费绿色软件网站](https://www.v2fy.com/p/soft-000010-h-17-d/)
 
 
+[W011《解锁音乐》在网易云听QQ音乐的周杰伦歌曲](https://www.v2fy.com/p/soft-000011-unlock-music/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
