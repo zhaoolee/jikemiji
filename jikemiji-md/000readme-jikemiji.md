@@ -68,6 +68,9 @@
 [K002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/tips-000002-ｍouseinc/)
 
 
+[T003《Nginx WordPress建站攻略》搭建一个高可玩的网站](https://www.v2fy.com/p/tips-000003-nginx-wordpress/)
+
+
 [W001《资源》如何阅片无数?看哔哩哔哩大数据榜单](https://www.v2fy.com/p/website-000001-kanbilibili/)
 
 
