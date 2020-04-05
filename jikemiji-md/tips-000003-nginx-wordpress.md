@@ -195,22 +195,22 @@ sudo yum install -y nginx
 sudo systemctl enable nginx
 # 开启nginx
 sudo systemctl start nginx
-# 停止nginx
-sudo systemctl restart nginx
 # 重启nginx
+sudo systemctl restart nginx
+# nginx重新加载配置文件
 sudo systemctl reload nginx
 ```
 
 
 
-## 配置php-pm
+## 配置php-fpm
 
 
 ```
 vim /etc/php.ini
-# Replace:
+# 替换:
 ;cgi.fix_pathinfo=1
-# With:
+# 为:
 cgi.fix_pathinfo=0
 ```
 
