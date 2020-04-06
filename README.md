@@ -56,6 +56,9 @@
 [W011《解锁音乐》在网易云听QQ音乐的周杰伦歌曲](https://www.v2fy.com/p/soft-000011-unlock-music/)
 
 
+[S012《冰点加天若》免费下载百度文库资源](https://www.v2fy.com/p/soft-000012-bingdian/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
