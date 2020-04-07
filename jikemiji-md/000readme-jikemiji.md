@@ -59,6 +59,9 @@
 [S012《冰点加天若》免费下载百度文库资源](https://www.v2fy.com/p/soft-000012-bingdian/)
 
 
+[S013《还是吃太饱》你见过哪些沙雕二维码？](https://www.v2fy.com/p/soft-000013-code-two-qr/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
