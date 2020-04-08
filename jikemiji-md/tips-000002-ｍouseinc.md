@@ -1,5 +1,5 @@
 ---
-title: K002《MouseInc》Windows如何优雅实时显示键盘按键？
+title: K002《MouseInc》Windows如何优雅实时显示键盘按键
 ---
 
 

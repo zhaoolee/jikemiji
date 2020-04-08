@@ -62,6 +62,9 @@
 [S013《还是吃太饱》你见过哪些沙雕二维码？](https://www.v2fy.com/p/soft-000013-code-two-qr/)
 
 
+[S014《CleanMyMac》Mac最强清理软件CleanMyMac发布了Windows版本(附双平台安装包)](https://www.v2fy.com/p/soft-000014-clean-my-mac/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
@@ -71,7 +74,7 @@
 [K001《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/tips-000001/)
 
 
-[K002《MouseInc》Windows如何优雅实时显示键盘按键？](https://www.v2fy.com/p/tips-000002-ｍouseinc/)
+[K002《MouseInc》Windows如何优雅实时显示键盘按键](https://www.v2fy.com/p/tips-000002-ｍouseinc/)
 
 
 [T003《Nginx WordPress建站攻略》搭建一个高可玩的网站](https://www.v2fy.com/p/tips-000003-nginx-wordpress/)
