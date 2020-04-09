@@ -65,6 +65,9 @@
 [S014《CleanMyMac》Mac最强清理软件CleanMyMac发布了Windows版本(附双平台安装包)](https://www.v2fy.com/p/soft-000014-clean-my-mac/)
 
 
+[S015 《Chrome换肤》Chrome团队精心推出的官方皮肤](https://www.v2fy.com/p/soft-000015-chrome-color/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
