@@ -68,6 +68,9 @@
 [S015 《Chrome换肤》Chrome团队精心推出的官方皮肤](https://www.v2fy.com/p/soft-000015-chrome-color/)
 
 
+[S016 《小丸工具箱》将1GB视频无损压缩到100MB](https://www.v2fy.com/p/soft-000016-xiaowan/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
