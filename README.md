@@ -74,6 +74,9 @@
 [S016 《小丸工具箱》将1GB视频无损压缩到100MB](https://www.v2fy.com/p/soft-000016-xiaowan/)
 
 
+[S018 《TranslucentTB》将Windows任务栏变透明](https://www.v2fy.com/p/soft-000018-tb/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
