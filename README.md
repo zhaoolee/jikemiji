@@ -77,6 +77,9 @@
 [S018 《TranslucentTB》将Windows任务栏变透明](https://www.v2fy.com/p/soft-000018-tb/)
 
 
+[S019 《MyFinder》将Windows美化为macOS](https://www.v2fy.com/p/soft-000019-wmac/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
