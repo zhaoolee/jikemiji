@@ -80,7 +80,10 @@
 [S019 《MyFinder》将Windows美化为macOS](https://www.v2fy.com/p/soft-000019-wmac/)
 
 
-[S019 《激活Windows》免费激活Windows的两种方法](https://www.v2fy.com/p/soft-000020-active-windows/)
+[S020 《激活Windows》免费激活Windows的两种方法](https://www.v2fy.com/p/soft-000020-active-windows/)
+
+
+[S021 《图标居中》Windows任务栏图标居中](https://www.v2fy.com/p/soft-000021-center/)
 
 
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
