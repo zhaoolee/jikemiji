@@ -32,6 +32,9 @@
 [Kr003《子安武人》茸茸,有块小面包找你~hui ye](https://www.v2fy.com/p/kr-000004-huiye/)
 
 
+[Kr005《辉夜大小姐》是什么造就了辉夜大小姐9.9的评分](https://www.v2fy.com/p/kr-000005-huiyetaolu/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
