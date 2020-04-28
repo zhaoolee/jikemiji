@@ -425,7 +425,7 @@ https://www.bilibili.com/bangumi/play/ss357
 
 目前B站热播的9.9分番剧为「辉夜大小姐想让我告白？～天才们的恋爱头脑战～」, 第二季开播仅3集就获得了9.9的超高分, 堪称2020年4月霸权,热度超过第二名3倍多
 
-![](https://www./v2fy.com/asset/bilirank/huiyerank.png)
+![](https://www.v2fy.com/asset/bilirank/huiyerank.png)
 
 
 「辉夜大小姐想让我告白？～天才们的恋爱头脑战～」直达链接:
