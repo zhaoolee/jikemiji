@@ -38,6 +38,9 @@
 [Kr005《9.9分番剧》哔哩哔哩9.9分的超高分番剧有哪些?](https://www.v2fy.com/p/kr-000006-bilibili/)
 
 
+[Kr006《素晴》智障界领军人物阿库娅?](https://www.v2fy.com/p/kr-000007-akuya/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
