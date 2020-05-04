@@ -41,6 +41,9 @@
 [Kr006《素晴》智障界领军人物阿库娅?](https://www.v2fy.com/p/kr-000007-akuya/)
 
 
+[Kr008《markdown实用技巧》Markdown折叠内容妙法?](https://www.v2fy.com/p/kr-000008-markdown-content/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
