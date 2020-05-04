@@ -29,6 +29,18 @@
 [Kr003《马克丁》业界毒瘤马克丁的表情包合集](https://www.v2fy.com/p/kr-000003-mekeding/)
 
 
+[Kr003《子安武人》茸茸,有块小面包找你~hui ye](https://www.v2fy.com/p/kr-000004-huiye/)
+
+
+[Kr005《辉夜大小姐》是什么造就了辉夜大小姐9.9的评分](https://www.v2fy.com/p/kr-000005-huiyetaolu/)
+
+
+[Kr005《9.9分番剧》哔哩哔哩9.9分的超高分番剧有哪些?](https://www.v2fy.com/p/kr-000006-bilibili/)
+
+
+[Kr006《素晴》智障界领军人物阿库娅?](https://www.v2fy.com/p/kr-000007-akuya/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
@@ -72,6 +84,18 @@
 
 
 [S016 《小丸工具箱》将1GB视频无损压缩到100MB](https://www.v2fy.com/p/soft-000016-xiaowan/)
+
+
+[S018 《TranslucentTB》将Windows任务栏变透明](https://www.v2fy.com/p/soft-000018-tb/)
+
+
+[S019 《MyFinder》将Windows美化为macOS](https://www.v2fy.com/p/soft-000019-wmac/)
+
+
+[S020 《激活Windows》免费激活Windows的两种方法](https://www.v2fy.com/p/soft-000020-active-windows/)
+
+
+[S021 《图标居中》Windows任务栏图标居中](https://www.v2fy.com/p/soft-000021-center/)
 
 
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
