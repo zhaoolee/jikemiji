@@ -16,6 +16,7 @@ https://www.v2fy.com
 
 ![](https://www.v2fy.com/asset/kr-000004-wordpress/v2fy-pinglun.png)
 
+
 **独立网站可以作为你的工具库/游戏库**,有了网站就有了独立的域名和空间,你可以把自己喜欢的一些开源小工具,放到自己的网站,比如[俄罗斯方块](https://www.v2fy.com/game/tetris/),[蔡徐坤打篮球](https://www.v2fy.com/game/cxk-ball/), [解锁QQ音乐网易云音乐小工具](https://www.v2fy.com/game/cxk-ball/)
 
 
