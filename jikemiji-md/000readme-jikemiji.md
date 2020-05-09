@@ -20,6 +20,9 @@
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
+[某科学的超电磁炮为什么吸引人](https://www.v2fy.com/p/c-001/)
+
+
 [G001你见过最骚气的gif图是什么？](https://www.v2fy.com/p/gif-000001-sao1/)
 
 
@@ -27,6 +30,24 @@
 
 
 [Kr003《马克丁》业界毒瘤马克丁的表情包合集](https://www.v2fy.com/p/kr-000003-mekeding/)
+
+
+[Kr003《子安武人》茸茸,有块小面包找你~hui ye](https://www.v2fy.com/p/kr-000004-huiye/)
+
+
+[Kr005《辉夜大小姐》是什么造就了辉夜大小姐9.9的评分](https://www.v2fy.com/p/kr-000005-huiyetaolu/)
+
+
+[Kr005《9.9分番剧》哔哩哔哩9.9分的超高分番剧有哪些?](https://www.v2fy.com/p/kr-000006-bilibili/)
+
+
+[Kr006《素晴》智障界领军人物阿库娅?](https://www.v2fy.com/p/kr-000007-akuya/)
+
+
+[Kr008《markdown实用技巧》Markdown折叠内容妙法?](https://www.v2fy.com/p/kr-000008-markdown-content/)
+
+
+[Kr009《网站》8个月经营独立网站的经验分享](https://www.v2fy.com/p/kr-000009-wordpress/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
@@ -74,6 +95,21 @@
 [S016 《小丸工具箱》将1GB视频无损压缩到100MB](https://www.v2fy.com/p/soft-000016-xiaowan/)
 
 
+[S018 《TranslucentTB》将Windows任务栏变透明](https://www.v2fy.com/p/soft-000018-tb/)
+
+
+[S019 《MyFinder》将Windows美化为macOS](https://www.v2fy.com/p/soft-000019-wmac/)
+
+
+[S020 《激活Windows》免费激活Windows的两种方法](https://www.v2fy.com/p/soft-000020-active-windows/)
+
+
+[S021 《图标居中》Windows任务栏图标居中](https://www.v2fy.com/p/soft-000021-center/)
+
+
+[S021 《奶牛快传》中国最快的免费网盘文件传输服务](https://www.v2fy.com/p/soft-000022-nainiu/)
+
+
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
 
 
@@ -83,7 +119,7 @@
 [K001《ScreenToGif》如何快速将gif图调整到300帧以内?](https://www.v2fy.com/p/tips-000001/)
 
 
-[K002《MouseInc》Windows如何优雅实时显示键盘按键](https://www.v2fy.com/p/tips-000002-ｍouseinc/)
+[K002《MouseInc》Windows如何优雅实时显示键盘按键](https://www.v2fy.com/p/tips-000002-mouse-inc/)
 
 
 [T003《Nginx WordPress建站攻略》搭建一个高可玩的网站](https://www.v2fy.com/p/tips-000003-nginx-wordpress/)
@@ -105,6 +141,9 @@
 
 
 [W006《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://www.v2fy.com/p/website-000006-beauty/)
+
+
+[W006《资源》为台湾「表特日报」完成的小姐姐爬虫（附4000张成果图片）](https://www.v2fy.com/p/website-000007-music/)
 
 
 [Win001《Windows实用技巧》如何让Windows复制粘贴更好用](https://www.v2fy.com/p/windows-000001-copy-parse/)
