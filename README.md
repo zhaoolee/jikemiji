@@ -50,7 +50,10 @@
 [Kr009《网站》8个月经营独立网站的经验分享](https://www.v2fy.com/p/kr-000009-wordpress/)
 
 
-[Kr009《B站壁纸第二波》B站壁纸娘的432张壁纸](https://www.v2fy.com/p/kr-000010-bilibili-wall-paper/)
+[Kr010《B站壁纸第二波》B站壁纸娘的432张壁纸](https://www.v2fy.com/p/kr-000010-bilibili-wall-paper/)
+
+
+[Kr011《正妹专题》专业老司机,交流都用 images.zip](https://www.v2fy.com/p/kr-000011-biaote/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
