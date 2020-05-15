@@ -12,10 +12,6 @@ https://www.ptt.cc/man/Beauty/index.html
 
 
 
-
-
-
-
 ## 开源爬虫程序
 
 我写了一个爬虫，专门用来爬取**正妹帖**，开源地址：
