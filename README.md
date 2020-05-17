@@ -62,6 +62,9 @@
 [Kr013《哔哩哔哩教程》有趣儿且优质免费的B站教程推荐](https://www.v2fy.com/p/kr-000013-bilibili-jiaocheng/)
 
 
+[Kr014 在QQ音乐与网易云音乐之间反复横跳](https://www.v2fy.com/p/kr-000014/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
