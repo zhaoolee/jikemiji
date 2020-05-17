@@ -65,6 +65,9 @@
 [Kr014 在QQ音乐与网易云音乐之间反复横跳](https://www.v2fy.com/p/kr-000014/)
 
 
+[Kr015 如何让电脑更实用？](https://www.v2fy.com/p/kr-000015/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
