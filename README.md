@@ -71,7 +71,10 @@
 [Kr016 B站如何为何让年轻用户着迷？](https://www.v2fy.com/p/kr-000016/)
 
 
-[Kr016 B站当代最强番《辉夜大小姐想让我告白》的奇妙设定](https://www.v2fy.com/p/kr-000017/)
+[Kr017 B站当代最强番《辉夜大小姐想让我告白》的奇妙设定](https://www.v2fy.com/p/kr-000017/)
+
+
+[Kr018 npm使用淘宝临时源](https://www.v2fy.com/p/kr-000018/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
