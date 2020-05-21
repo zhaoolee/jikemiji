@@ -80,6 +80,9 @@
 [Kr019 如何写一个好故事？](https://www.v2fy.com/p/kr-000019/)
 
 
+[Kr020  小白如何入门自媒体？](https://www.v2fy.com/p/kr-000020/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
