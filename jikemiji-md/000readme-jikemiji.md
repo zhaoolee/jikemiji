@@ -89,6 +89,9 @@
 [Kr022  JetBrain全家桶激活](https://www.v2fy.com/p/kr-000022/)
 
 
+[Kr023  贴吧大神来P张图](https://www.v2fy.com/p/kr-000023/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
@@ -147,6 +150,9 @@
 
 
 [S021 《奶牛快传》中国最快的免费网盘文件传输服务](https://www.v2fy.com/p/soft-000022-nainiu/)
+
+
+[S021 《PhotoShop8.0》自用多年仅22Mb的Adobe Photoshop CS 8.01极致精简版](https://www.v2fy.com/p/soft-000023/)
 
 
 [SP001《PPT》罗永浩演讲有趣的PPT](https://www.v2fy.com/p/speech-000001-lyh/)
