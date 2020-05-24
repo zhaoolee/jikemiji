@@ -92,10 +92,16 @@
 [Kr023  贴吧大神来P张图](https://www.v2fy.com/p/kr-000023/)
 
 
-[Kr023  mac OS壁纸合集](https://www.v2fy.com/p/kr-000024/)
+[Kr024  mac OS壁纸合集](https://www.v2fy.com/p/kr-000024/)
 
 
-[Kr023  公众号推文热门类型](https://www.v2fy.com/p/kr-000025/)
+[Kr025  公众号推文热门类型](https://www.v2fy.com/p/kr-000025/)
+
+
+[Kr026  辉夜大小姐与炮姐](https://www.v2fy.com/p/kr-000026/)
+
+
+[Kr027  iOS壁纸合集](https://www.v2fy.com/p/kr-000027/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
