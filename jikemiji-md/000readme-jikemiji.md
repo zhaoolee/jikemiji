@@ -107,6 +107,9 @@
 [Kr028  「梗」的研究！](https://www.v2fy.com/p/kr-000028/)
 
 
+[Kr029   简书是如何变成反面教材的？](https://www.v2fy.com/p/kr-000029/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
