@@ -110,6 +110,9 @@
 [Kr029   简书是如何变成反面教材的？](https://www.v2fy.com/p/kr-000029/)
 
 
+[Kr030   那群晒 qq 空间的孩子长大了，变成晒博客了](https://www.v2fy.com/p/kr-000030/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
