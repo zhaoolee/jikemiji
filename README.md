@@ -113,6 +113,9 @@
 [Kr030   那群晒 qq 空间的孩子长大了，变成晒博客了](https://www.v2fy.com/p/kr-000030/)
 
 
+[Kr031  WordPress关闭自动更新关闭更新提醒](https://www.v2fy.com/p/kr-000031/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
