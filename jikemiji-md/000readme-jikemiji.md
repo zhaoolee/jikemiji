@@ -116,6 +116,9 @@
 [Kr031  WordPress关闭自动更新关闭更新提醒](https://www.v2fy.com/p/kr-000031/)
 
 
+[Kr031  推荐一波, 从创意社区V2EX收集的个人网站](https://www.v2fy.com/p/kr-000032/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
