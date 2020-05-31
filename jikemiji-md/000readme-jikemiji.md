@@ -134,6 +134,9 @@
 [Kr037  Win10经典植物大战僵尸附完美存档和修改器](https://www.v2fy.com/p/kr-000037/)
 
 
+[Kr038   Win10滚动截屏神器FastStone Capture正版激活码](https://www.v2fy.com/p/kr-000038/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
