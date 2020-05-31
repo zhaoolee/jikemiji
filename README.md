@@ -122,7 +122,10 @@
 [Kr033 1600万播放127万弹幕的bilibili镇站之宝！两万个御坂妹](https://www.v2fy.com/p/kr-000033/)
 
 
-[Kr033  P站5月最佳插画合集](https://www.v2fy.com/p/kr-000034/)
+[Kr035  P站5月最佳插画合集](https://www.v2fy.com/p/kr-000034/)
+
+
+[Kr035  B站官方入站必刷合集](https://www.v2fy.com/p/kr-000035/)
 
 
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
