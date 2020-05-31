@@ -131,6 +131,9 @@
 [Kr036  红色警戒共和国之辉绿色精简版Win10可用附修改器](https://www.v2fy.com/p/kr-000036/)
 
 
+[Kr037  Win10经典植物大战僵尸附完美存档和修改器](https://www.v2fy.com/p/kr-000037/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
