@@ -143,6 +143,9 @@
 [Kr040  用小窗口玩红色警戒的技巧](https://www.v2fy.com/p/kr-000040/)
 
 
+[Kr040  小霸王904款游戏合集(Win10可运行)](https://www.v2fy.com/p/kr-000041/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
