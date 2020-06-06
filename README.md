@@ -140,6 +140,9 @@
 [Kr039 为了收集文字素材，我完成了《一言》的开源爬虫](https://www.v2fy.com/p/kr-000039/)
 
 
+[Kr040  用小窗口玩红色警戒的技巧](https://www.v2fy.com/p/kr-000040/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
