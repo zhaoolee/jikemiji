@@ -146,6 +146,9 @@
 [Kr041  小霸王904款游戏合集(Win10可运行)](https://www.v2fy.com/p/kr-000041/)
 
 
+[Kr042  北京浮生记](https://www.v2fy.com/p/kr-000042/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
