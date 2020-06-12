@@ -149,6 +149,9 @@
 [Kr042  北京浮生记](https://www.v2fy.com/p/kr-000042/)
 
 
+[Typora从命令行打开文件夹](https://www.v2fy.com/p/kr-000043/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
