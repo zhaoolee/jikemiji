@@ -155,6 +155,9 @@
 [Mac和Windows10配置ssh免密码登录](https://www.v2fy.com/p/kr-000044/)
 
 
+[使用rsync命令在Mac与Linux服务器间同步数据](https://www.v2fy.com/p/kr-000045/)
+
+
 [S001《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
