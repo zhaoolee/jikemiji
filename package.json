@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node rsync.js && node push.js",
-    "push": "node rsync.js && node push.js&& git commit -m 'ok' && git push"
+    "push": "node rsync.js && node push.js && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",
