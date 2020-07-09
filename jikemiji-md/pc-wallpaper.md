@@ -4,6 +4,16 @@ title: 珍藏PC版壁纸
 
 
 
+## 《EVA》明日香4K壁纸
+
+原图提取地址：[https://zhaooolee.cowtransfer.com/s/06118c9acad843](https://zhaooolee.cowtransfer.com/s/06118c9acad843)
+
+
+
+![新世纪福音战士_明日香](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/pc-wallpaper.assets/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB_%E6%98%8E%E6%97%A5%E9%A6%99.jpg)
+
+
+
 ## 《三体》智子4K壁纸
 
 原图提取地址：[https://zhaooolee.cowtransfer.com/s/3f44f8950fd643](https://zhaooolee.cowtransfer.com/s/3f44f8950fd643)
