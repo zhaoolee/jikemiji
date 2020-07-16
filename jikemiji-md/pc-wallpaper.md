@@ -2,6 +2,16 @@
 title: 珍藏PC版壁纸
 ---
 
+## 《高山星空》简约壁纸
+
+原图提取地址: [https://zhaooolee.cowtransfer.com/s/19acf883befc4a](https://zhaooolee.cowtransfer.com/s/19acf883befc4a)
+
+![高山星空唯美背景4k简约壁纸](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/pc-wallpaper.assets/%E9%AB%98%E5%B1%B1%E6%98%9F%E7%A9%BA%E5%94%AF%E7%BE%8E%E8%83%8C%E6%99%AF4k%E7%AE%80%E7%BA%A6%E5%A3%81%E7%BA%B8.jpg)
+
+
+
+
+
 ## 《macOS》黑沙壁纸
 
 原图提取地址：[https://zhaooolee.cowtransfer.com/s/bba8cd4b14244a](https://zhaooolee.cowtransfer.com/s/bba8cd4b14244a)
