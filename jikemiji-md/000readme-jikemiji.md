@@ -266,7 +266,10 @@
 [如何对优质内容进行Rss订阅？](https://www.v2fy.com/p/kr-000081/)
 
 
-[国产操作系统UOS V20专业版开箱体验](https://www.v2fy.com/p/kr-000082/)
+[科技不会让世界更美好，但值得期待](https://www.v2fy.com/p/kr-000082/)
+
+
+[国产操作系统UOS V20专业版开箱体验](https://www.v2fy.com/p/kr-000083/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
