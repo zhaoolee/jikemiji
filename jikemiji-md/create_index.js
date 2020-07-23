@@ -149,7 +149,7 @@ async function main() {
 
   // 不替换了
 
-  // await replace_index_info(index_info);
+  await replace_index_info(index_info);
 }
 
 main();
