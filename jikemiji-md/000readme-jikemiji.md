@@ -272,6 +272,9 @@
 [国产操作系统UOS V20专业版开箱体验](https://www.v2fy.com/p/kr-000083/)
 
 
+[华为“鸿蒙”不接客？中美冲突把Windows搞凉，中国还有这款国产系统（附15款软件）](https://www.v2fy.com/p/kr-000084/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
