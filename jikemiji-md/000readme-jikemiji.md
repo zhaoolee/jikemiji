@@ -275,6 +275,9 @@
 [华为“鸿蒙”不接客？中美冲突把Windows搞凉，中国还有这款国产系统（附15款软件）](https://www.v2fy.com/p/kr-000084/)
 
 
+[高考升仙付费路,没病你就走两步, 如何把读了十多年书的人忽悠瘸?](https://www.v2fy.com/p/kr-000085/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
