@@ -281,6 +281,9 @@
 [舔狗日记一键生成，还在追不到女神发愁吗？硬核破解沙雕网友的舔狗日记(附exe下载)](https://www.v2fy.com/p/kr-000086/)
 
 
+[批量卸载Windows自带App,简洁好用的单文件绿色版卸载工具Total Uninstall](https://www.v2fy.com/p/kr-000087/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
