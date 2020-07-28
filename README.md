@@ -284,6 +284,9 @@
 [批量卸载Windows自带App,简洁好用的单文件绿色版卸载工具Total Uninstall](https://www.v2fy.com/p/kr-000087/)
 
 
+[快来珍藏这款10MB尺寸的Photoshop7.0绿色版(亲测Win10可运行,附下载链接)](https://www.v2fy.com/p/kr-000088/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
