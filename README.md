@@ -287,6 +287,9 @@
 [快来珍藏这款10MB尺寸的Photoshop7.0绿色版(亲测Win10可运行,附下载链接)](https://www.v2fy.com/p/kr-000088/)
 
 
+[大学生笔记本选Mac还是Windows？](https://www.v2fy.com/p/kr-000089/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
