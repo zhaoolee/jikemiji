@@ -302,6 +302,9 @@
 [新版蓝奏云批量下载工具分享](https://www.v2fy.com/p/kr-000093/)
 
 
+[放弃iPhone选安卓的十大理由](https://www.v2fy.com/p/kr-000094/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
