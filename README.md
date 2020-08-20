@@ -326,7 +326,10 @@
 [暴力摩托Win10可运行版下载（真人剧情动画也太野了~）](https://www.v2fy.com/p/kr-000101/)
 
 
-[老爷机也能办公? 珍藏版仅30M功能齐全版Microsoft Office 2002(Win10可用)](https://www.v2fy.com/p/kr-000102/)
+[老爷机也能办公? 珍藏仅30M功能齐全版Microsoft Office 2002(XP和Win10均可用)](https://www.v2fy.com/p/kr-000102/)
+
+
+[Linux查看僵死进程命令](https://www.v2fy.com/p/kr-000103/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
