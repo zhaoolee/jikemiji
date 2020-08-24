@@ -344,7 +344,7 @@
 [《从零建站》WordPress与Hexo建站如何选型?](https://www.v2fy.com/p/kr-000107/)
 
 
-[写博客是一场游戏](https://www.v2fy.com/p/kr-000108/)
+[写博客本身是一场游戏](https://www.v2fy.com/p/kr-000108/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
