@@ -16,7 +16,8 @@ https://www.ptt.cc/man/Beauty/index.html
 
 我写了一个爬虫，专门用来爬取**正妹帖**，开源地址：
 
-https://github.com/zhaoolee/ptt_beauty_spider
+
+[https://github.com/zhaoolee/ptt_beauty_spider](https://github.com/zhaoolee/ptt_beauty_spider)
 
 
 
