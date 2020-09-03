@@ -353,10 +353,13 @@
 [艺术源于生活,生活模仿艺术](https://www.v2fy.com/p/kr-000110/)
 
 
-[为什么换了安卓就很难回iPhone了?](https://www.v2fy.com/p/kr-000111/)
+[换了安卓就很难回iPhone了? iPhone的刘海确实应该剪掉了,但剪不掉...](https://www.v2fy.com/p/kr-000111/)
 
 
-[分享最近读到的一些有趣的言论](https://www.v2fy.com/p/kr-000112/)
+[没有人能挡住深圳人上班的热情?没有人能抵挡不上班的恐惧...](https://www.v2fy.com/p/kr-000112/)
+
+
+[今日体验一波《跑跑卡丁车》2010年魔改单机版(文末提供安装包)](https://www.v2fy.com/p/kr-000113/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
