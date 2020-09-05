@@ -362,6 +362,9 @@
 [今日体验一波《跑跑卡丁车》2010年魔改单机版(文末提供安装包)](https://www.v2fy.com/p/kr-000113/)
 
 
+[《信条》过去不可挽回, 未来已成史书(无剧透版)](https://www.v2fy.com/p/kr-000114/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
