@@ -365,6 +365,9 @@
 [《信条》过去不可挽回, 未来已成史书(无剧透版)](https://www.v2fy.com/p/kr-000114/)
 
 
+[聊一聊《信条》中有趣的BUG](https://www.v2fy.com/p/kr-000115/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
