@@ -368,6 +368,9 @@
 [聊一聊《信条》中有趣的BUG](https://www.v2fy.com/p/kr-000115/)
 
 
+[Python入门最佳案例](https://www.v2fy.com/p/kr-000116/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
