@@ -371,6 +371,9 @@
 [Python入门最佳案例](https://www.v2fy.com/p/kr-000116/)
 
 
+[如果你的电脑只能安装三个软件, 你会选择哪三个?](https://www.v2fy.com/p/kr-000117/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
