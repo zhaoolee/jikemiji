@@ -374,6 +374,9 @@
 [如果你的电脑只能安装三个软件, 你会选择哪三个?](https://www.v2fy.com/p/kr-000117/)
 
 
+[如果你被流放了, 你会选择哪三样必须携带的东西?](https://www.v2fy.com/p/kr-000118/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
