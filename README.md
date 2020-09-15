@@ -386,7 +386,7 @@
 [推荐几个有趣的B站视频](https://www.v2fy.com/p/kr-000122/)
 
 
-[买电子产品前要考虑什么？](https://www.v2fy.com/p/kr-000123/)
+[经验贴: 如何选购相机, 电脑, 手机, 电脑配件?](https://www.v2fy.com/p/kr-000123/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
