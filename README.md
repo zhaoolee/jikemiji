@@ -389,6 +389,9 @@
 [经验贴: 如何选购相机, 电脑, 手机, 电脑配件?](https://www.v2fy.com/p/kr-000123/)
 
 
+[Apple 2020年发布会启示录](https://www.v2fy.com/p/kr-000124/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
