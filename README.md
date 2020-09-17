@@ -392,6 +392,9 @@
 [Apple 2020年发布会启示录](https://www.v2fy.com/p/kr-000124/)
 
 
+[为什么要学摄影？](https://www.v2fy.com/p/kr-000125/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
