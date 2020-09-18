@@ -395,6 +395,9 @@
 [为什么要学摄影？](https://www.v2fy.com/p/kr-000125/)
 
 
+[程序员996工作制, 为什么icu的医生比程序员还要惨?](https://www.v2fy.com/p/kr-000126/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
