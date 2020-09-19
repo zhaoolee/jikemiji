@@ -398,7 +398,7 @@
 [程序员996工作制, 为什么icu的医生比程序员还要惨?](https://www.v2fy.com/p/kr-000126/)
 
 
-[脸上写着无敌的男人--空条承太郎](https://www.v2fy.com/p/kr-000127/)
+[我走进OPPO店, 掏出一加, 店员来了句, 一加也是我们家的[手动狗头]](https://www.v2fy.com/p/kr-000127/)
 
 
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
