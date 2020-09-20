@@ -401,6 +401,9 @@
 [我走进OPPO店, 掏出一加, 店员来了句, 一加也是我们家的[手动狗头]](https://www.v2fy.com/p/kr-000127/)
 
 
+[我向Mac党的朋友吹嘘, 32GB内存超爽! Windows半年才蓝屏两次, 朋友: 蛤蛤蛤](https://www.v2fy.com/p/kr-000128/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
