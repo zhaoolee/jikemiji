@@ -404,6 +404,9 @@
 [我向Mac党的朋友吹嘘, 32GB内存超爽! Windows半年才蓝屏两次, 朋友: 蛤蛤蛤](https://www.v2fy.com/p/kr-000128/)
 
 
+[我把3镜头手机拍的照片发微信群，哥们说，现在手机摄像头越来越多，我有一个扫码就够了](https://www.v2fy.com/p/kr-000129/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
