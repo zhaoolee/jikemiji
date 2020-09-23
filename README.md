@@ -419,6 +419,9 @@
 [来了就是深圳人？或许并不需要996，只需早生几年...](https://www.v2fy.com/p/kr-000133/)
 
 
+[Windows和macOS两艘航母终将被Chrome击沉](https://www.v2fy.com/p/kr-000134/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
