@@ -425,6 +425,9 @@
 [Windows大战macOS，一切为了逼格](https://www.v2fy.com/p/kr-000135/)
 
 
+[iPhone肥，果粉钱包瘦，安卓吃肉又挨揍](https://www.v2fy.com/p/kr-000136/)
+
+
 [珍藏手机版壁纸](https://www.v2fy.com/p/m-wallpaper/)
 
 
