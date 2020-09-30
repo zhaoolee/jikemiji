@@ -20,6 +20,9 @@
 [如何写一本开源电子书2.0](https://www.v2fy.com/p/2020-09-28-docsify/)
 
 
+[Windows万能视频播放器PotPlayer免安装免升级绿色版](https://www.v2fy.com/p/2020-09-30-pot/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
