@@ -23,6 +23,12 @@
 [Windows万能视频播放器PotPlayer免安装免升级绿色版](https://www.v2fy.com/p/2020-09-30-pot/)
 
 
+[想成为斗图之王么？你需要这款开源工具的力量！](https://www.v2fy.com/p/2020-10-07-find-bqb/)
+
+
+[为ChineseBQB贡献表情包的方式](https://www.v2fy.com/p/2020-10-07-link/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
