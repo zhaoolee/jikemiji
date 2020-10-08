@@ -29,6 +29,9 @@
 [为ChineseBQB贡献表情包的方式](https://www.v2fy.com/p/2020-10-07-link/)
 
 
+[开源微信斗图神奇工具，表情包源新增《猫和老鼠》和《北方栖姬》，功能新增个性化页面分享，贡献方式更新](https://www.v2fy.com/p/2020-10-08-chinesebqb/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
