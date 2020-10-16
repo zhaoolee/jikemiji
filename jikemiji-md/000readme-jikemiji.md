@@ -41,7 +41,7 @@
 [道客巴巴免费下载文档技巧](https://www.v2fy.com/p/2020-10-14-doc88/)
 
 
-[如何刷国外抖音？抖音国际版tiktok免注册免登陆下载安装教程](https://www.v2fy.com/p/2020-10-15-tiktok/)
+[如何刷国外抖音？抖音国际版tiktok免注册免登陆下载安装教程(附视频教程)](https://www.v2fy.com/p/2020-10-15-tiktok/)
 
 
 [如何免费使用百度网盘不限速下载工具？（附视频教程）](https://www.v2fy.com/p/2020-10-16-leiniao/)
