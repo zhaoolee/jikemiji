@@ -53,6 +53,9 @@
 [早年黑网吧特供游戏《血战上海滩》如何在Win10运行?](https://www.v2fy.com/p/2020-10-17-shanghai/)
 
 
+[如何用手机找bt种子？](https://www.v2fy.com/p/2020-10-19-bt/)
+
+
 [如何关闭Win10自动更新？](https://www.v2fy.com/p/2020-10-19-win10/)
 
 
