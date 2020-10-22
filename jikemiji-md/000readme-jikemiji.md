@@ -59,6 +59,9 @@
 [如何关闭Win10自动更新？](https://www.v2fy.com/p/2020-10-19-win10/)
 
 
+[Win10免费开源动态壁纸](https://www.v2fy.com/p/2020-10-22-wall/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
