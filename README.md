@@ -62,7 +62,7 @@
 [Win10免费开源动态壁纸](https://www.v2fy.com/p/2020-10-22-wall/)
 
 
-[《进击的虫师》爬取豆瓣电影海报(Top250)](https://www.v2fy.com/p/2020-10-23-douban/)
+[《进击的虫师》爬取豆瓣电影海报Top250（2020年10月23日更新）](https://www.v2fy.com/p/2020-10-23-douban/)
 
 
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
