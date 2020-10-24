@@ -65,6 +65,9 @@
 [《进击的虫师》爬取豆瓣电影海报Top250（2020年10月23日更新）](https://www.v2fy.com/p/2020-10-23-douban/)
 
 
+[如何用Python从Youtube批量下载彩蜂摄影视频](https://www.v2fy.com/p/2020-10-24-youtube-dl/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
