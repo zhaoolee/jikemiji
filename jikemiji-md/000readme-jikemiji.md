@@ -68,6 +68,9 @@
 [如何用Python从Youtube批量下载彩蜂摄影视频](https://www.v2fy.com/p/2020-10-24-youtube-dl/)
 
 
+[一个摄影老法师开始做视频需要补充的技能和设备](https://www.v2fy.com/p/2020-10-25-fashi/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
