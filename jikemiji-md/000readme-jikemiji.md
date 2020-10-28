@@ -77,6 +77,9 @@
 [如何在互联网上寻找免费电子书？](https://www.v2fy.com/p/2020-10-27-find-book/)
 
 
+[《人生的智慧》好书种草书记](https://www.v2fy.com/p/2020-10-28-rensheng/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
