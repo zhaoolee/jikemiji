@@ -80,6 +80,9 @@
 [《人生的智慧》好书种草书记](https://www.v2fy.com/p/2020-10-28-rensheng/)
 
 
+[《打工人》关于打工人的段子合集！](https://www.v2fy.com/p/2020-10-29-dagong/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
