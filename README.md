@@ -86,11 +86,10 @@
 [今天建立了个人电子图书馆，欢迎一起阅览～](https://www.v2fy.com/p/2020-10-30-dianzishu/)
 
 
-<<<<<<< HEAD
-[什么格式的电子书比较易读？顺带推荐一波好用的阅读软件](https://www.v2fy.com/p/2020-11-02-book-type/)
-=======
 [因为没有适合打工人的工作，所以为了赚钱，打工人可以完成任何工作](https://www.v2fy.com/p/2020-10-31-duzhe/)
->>>>>>> fd1c377f73eaecfa6ea023a8d280a228db9ab0fe
+
+
+[什么格式的电子书比较易读？顺带推荐一波好用的阅读软件](https://www.v2fy.com/p/2020-11-02-book-type/)
 
 
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
