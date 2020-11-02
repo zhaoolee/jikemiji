@@ -86,6 +86,9 @@
 [今天建立了个人电子图书馆，欢迎一起阅览～](https://www.v2fy.com/p/2020-10-30-dianzishu/)
 
 
+[什么格式的电子书比较易读？顺带推荐一波好用的阅读软件](https://www.v2fy.com/p/2020-11-02-book-type/)
+
+
 [B001《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
