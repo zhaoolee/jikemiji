@@ -1,5 +1,5 @@
 ---
-title:  T003《Nginx WordPress建站攻略》搭建一个高可玩的网站
+title: 《Nginx WordPress建站攻略》搭建一个高可玩的网站
 ---
 
 

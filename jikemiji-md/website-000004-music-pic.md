@@ -1,5 +1,5 @@
 ---
-title: W004《资源》获取网易云音乐超清专辑封面
+title: 《资源》获取网易云音乐超清专辑封面
 ---
 
 ![](https://www.v2fy.com/asset/net-music-pic/000.png)

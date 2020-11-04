@@ -1,5 +1,5 @@
 ---
-title:  S014《CleanMyMac》Mac最强清理软件CleanMyMac发布了Windows版本(附双平台安装包)
+title:  《CleanMyMac》Mac最强清理软件CleanMyMac发布了Windows版本(附双平台安装包)
 ---
 
 ## macOS 也会卡顿...

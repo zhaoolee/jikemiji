@@ -1,5 +1,5 @@
 ---
-title:  S020 《激活Windows》免费激活Windows的两种方法
+title:  《激活Windows》免费激活Windows的两种方法
 ---
 
 Windows的激活在某宝的售价大致5块钱，如果你阅读这篇文章，就能省掉5块钱

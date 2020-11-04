@@ -1,5 +1,5 @@
 ---
-title: SP002《PPT》罗永浩最搞笑的几张PPT
+title: 《PPT》罗永浩最搞笑的几张PPT
 ---
 
 ## 说一个最短的it界笑话

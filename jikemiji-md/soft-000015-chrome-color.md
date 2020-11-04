@@ -1,5 +1,5 @@
 ---
-title:  S015 《Chrome换肤》Chrome团队精心推出的官方皮肤
+title:  《Chrome换肤》Chrome团队精心推出的官方皮肤
 ---
 
 换皮肤，可以说是各大国产浏览器的传统艺能了，Chrome团队官方也提供了皮肤，非常漂亮

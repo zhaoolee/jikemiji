@@ -1,5 +1,5 @@
 ---
-title:  S021 《图标居中》Windows任务栏图标居中
+title:  《图标居中》Windows任务栏图标居中
 ---
 
 
