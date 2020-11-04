@@ -1,11 +1,6 @@
-## 公众号「0加1」
+## zhaoolee的博客仓库
 
-微信公众号是当前最成功的内容平台，但公众号的内容无法被大多数搜索引擎收录
-
-为了让创作内容造福人类，我将公众号「0加1」的内容放到这个开源仓库
-
-希望能对看到这个仓库的你有所帮助！
-
+为了让创作内容造福人类，我将博客内容放到这个开源仓库，希望能对看到这个仓库的你有所帮助！
 
 本仓库永久地址：[https://github.com/zhaoolee/jikemiji](https://github.com/zhaoolee/jikemiji)
 
@@ -13,9 +8,6 @@
 
 使用 [Sourcegraph.com](https://sourcegraph.com/github.com/zhaoolee/jikemiji) 进行搜索。
 
-## 公众号
-
-![公众号 「0加1」](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/jikemiji.png)
 
 
 ## 目录
@@ -626,4 +618,8 @@
 
 ---end---
 
+## 公众号
 
+关注公众号「0加1」可以收到文章更新推送
+
+![公众号「0加1」](https://raw.githubusercontent.com/zhaoolee/jikemiji/master/README/jikemiji.png)
