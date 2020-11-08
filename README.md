@@ -10,6 +10,14 @@
 
 
 
+## 资源集合
+
+[软件工具福利资源](https://www.v2fy.com/about/)
+
+[电子书资源](https://github.com/zhaoolee/jikemiji/tree/master/%E7%8F%8D%E8%97%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90)
+
+
+
 ## 目录
 
 ---start---
@@ -96,6 +104,9 @@
 
 
 [无内鬼！来点美式笑话... 重生美利坚《内战》](https://www.v2fy.com/p/2020-11-05-daxuan/)
+
+
+[大学同学找你借百度云 VIP 帐号,你会借吗?](https://www.v2fy.com/p/2020-11-08-baidu/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
