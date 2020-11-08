@@ -10,6 +10,14 @@
 
 
 
+## 资源
+
+[软件工具福利资源](https://www.v2fy.com/about/)
+
+[电子书资源](https://github.com/zhaoolee/jikemiji/tree/master/%E7%8F%8D%E8%97%8F%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90)
+
+
+
 ## 目录
 
 ---start---
