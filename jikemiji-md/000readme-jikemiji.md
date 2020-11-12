@@ -115,6 +115,9 @@
 [如何让Mac更实用更好看？界面调优，新机必装软件，在线工具，魔法上谷歌！](https://www.v2fy.com/p/2020-11-12-mac/)
 
 
+[关于MacOS的100个问题（其一）](https://www.v2fy.com/p/2020-11-12-mac20/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
