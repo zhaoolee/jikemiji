@@ -112,6 +112,9 @@
 [IDM最新版本6.38绿色化教程](https://www.v2fy.com/p/2020-11-11-idm638/)
 
 
+[如何让Mac更好用？](https://www.v2fy.com/p/2020-11-12-mac/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
