@@ -544,6 +544,9 @@
 [珍藏PC版壁纸](https://www.v2fy.com/p/pc-wallpaper/)
 
 
+[公共图片](https://www.v2fy.com/p/public/)
+
+
 [《优秀软件》如何让Chrome效率提升1400%?](https://www.v2fy.com/p/soft-000001/)
 
 
