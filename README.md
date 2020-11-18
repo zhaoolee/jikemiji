@@ -124,7 +124,7 @@
 [关于iPad的100个问题](https://www.v2fy.com/p/2020-11-17-iPad/)
 
 
-[总所周知，Github是一个读小说的网站！](https://www.v2fy.com/p/2020-11-18-re0/)
+[总所周知，Github是一个读小说的网站！《Re0：从零开始的异世界生活》Web版](https://www.v2fy.com/p/2020-11-18-re0/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
