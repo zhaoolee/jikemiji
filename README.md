@@ -127,7 +127,7 @@
 [众所周知，Github是一个读小说的网站！《Re0：从零开始的异世界生活》Web版](https://www.v2fy.com/p/2020-11-18-re0/)
 
 
-[给微信新表情按顺序编个故事，阿里云盘邀请码](https://www.v2fy.com/p/2020-11-19-weixin/)
+[给微信新表情按顺序编个故事，阿里云盘邀请码，路灯充电设备，沈剑心可爱纸巾盒](https://www.v2fy.com/p/2020-11-19-weixin/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
