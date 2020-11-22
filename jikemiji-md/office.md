@@ -265,3 +265,73 @@ https://msdn.itellyou.cn/
 
 ![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
 
+## 21. 如何激活Windows
+
+
+
+命令提示符(管理员)
+
+```
+slmgr /skms kms.v0v.bid && slmgr /ato
+```
+如遇报错请访问 [https://v0v.bid/](https://v0v.bid/)
+
+
+## 22. 如何免费下载youtube超清视频？
+
+如果不知youtube为何物请跳过本问题
+
+进入 [https://zh.savefrom.net/](https://zh.savefrom.net/) 
+
+输入需要下载的YouTube 视频url, 即可下载。
+
+
+## 23. 如何免费批量下载youtebe视频？
+
+使用youtube-dl可以批量下载视频
+
+youtube-dl开源地址： [https://github.com/ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+
+比如下载彩蜂摄影杂志专辑
+
+```
+youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
+```
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/1240-20201024154146960.png)
+
+
+
+详细操作步骤: [https://www.v2fy.com/p/2020-10-24-youtube-dl/](https://www.v2fy.com/p/2020-10-24-youtube-dl/)
+
+
+
+## 24. 如何关闭Windows自动更新？
+
+
+
+
+
+使用联想智能解决工具
+
+
+
+下载页： [https://iknow.lenovo.com.cn/app/detail/dc_172545.html](https://iknow.lenovo.com.cn/app/detail/dc_172545.html)
+
+搜索自动更新，即可定位工具下载地址
+
+![image-20201122182412531](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122182412531.png)
+
+
+
+
+
+## 25. 如何找到免费可商用字体？
+
+
+
+进入[https://www.100font.com/](https://www.100font.com/)
+
+
+
+网站内都是免费可商用字体，并可自由下载
