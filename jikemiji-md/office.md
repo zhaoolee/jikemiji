@@ -129,3 +129,139 @@ vposy从未主动向任何人提供破解软件，只是长期向公众分享安
 ![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/20201109-pan002.gif)
 
 《KinhDownload》详细教程:[https://www.v2fy.com/p/t040-kdbaidu/](https://www.v2fy.com/p/t040-kdbaidu/)
+
+
+
+## 11. 如何优雅发邮件？
+
+
+虽然现在的企业微信，钉钉，飞书很强大，但项目月报，工作汇报还是需要发邮件（因为邮件比较正式，且可以留底，出了问题可以追查到个人），邮件内容很重要，邮件格式也同样重要，如果你不想把时间都浪费在调整文本样式上，那就使用Markdown吧！
+
+Markdown使用教程(5分钟学会):
+[https://www.runoob.com/markdown/md-tutorial.html](https://www.runoob.com/markdown/md-tutorial.html)
+
+Markdown是一种纯文本标记语言，重视层级结构，而无需考虑样式。写完Markdown后，使用小工具将Markdown转换为格式工整的邮件富文本即可!
+
+如果你喜欢在线写邮件，可以考虑使用 Markdown Here :
+
+[https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/1a22124d447946ab8277a45414a0cc37.gif)
+
+
+如果你喜欢在本地写邮件，可以考虑使用Typora:
+
+[https://typora.io/](https://typora.io/)
+
+
+
+## 12. 如何将Markdown格式转公众号格式？
+
+在线工具mdnice : [https://www.mdnice.com/](https://www.mdnice.com/) 可以将markdown转换为 公众号格式
+
+另外，mdnice还可以将markdown转换为多种主题的富文本，可以直接粘贴到知乎，B站专栏。
+
+![image-20201122131013079](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122131013079.png)
+
+
+
+## 13. 如何录制电脑屏幕？
+
+对于企业内部系统的使用方法，与其手把手的教给新人，不如录屏存档！
+
+有人接管工作，直接查看视频教程即可。
+
+Windows自带录屏功能 Win+G， 即可录屏
+MacOS 自带软件QuickTime也可以录屏
+如果你想使用免费又专业的录屏软件，建议使用OBS , OBS官网 [https://obsproject.com/](https://obsproject.com/)
+
+![image-20201122130920575](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122130920575.png)
+
+## 14. 如何在不损失画质的前提下减小视频体积？
+
+
+
+欢迎使用小丸压缩工具箱！ 下载地址 [https://zhaoolee.lanzous.com/b00nh98tc](https://zhaoolee.lanzous.com/b00nh98tc)
+
+亲测可以将1GB的视频压缩到100MB，压缩率非常可观，B站up们都在用！
+
+![image-20201122130838560](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122130838560.png)
+
+
+
+
+
+## 15. 如何从网上免费下载软件？
+
+
+
+Windows找软件：[https://piratepc.co/](https://piratepc.co/)
+
+MacOS找软件： [https://xclient.info/](https://xclient.info/)
+
+
+
+
+
+## 16. Win10需要安装杀毒软件么？
+
+
+
+理论上，Windows10自带的Microsoft Defender 已经够用了，但Microsoft Defender最大问题的是误杀率特别高。
+
+
+
+如果你想使用各种收费软件免费版，又不想电脑中毒，又对360和腾讯全家桶没啥感情，推荐安装**火绒** [https://www.huorong.cn/](https://www.huorong.cn/)
+
+![image-20201122130651466](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122130651466.png)
+
+
+
+
+
+## 17. 如果U盘需要同时支持Windows和MacOS读写，需要格式化为什么格式？
+
+
+
+ExFAT格式！
+
+![image-20201122130612600](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122130612600.png)
+
+
+
+## 18. 如何下载旧版纯净Windows镜像？
+
+前往itellyou可以找到Windows所有主流版本的镜像，网址:
+
+https://msdn.itellyou.cn/
+
+
+
+![image-20201122130314403](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201122130314403.png)
+
+## 19. 新媒体工作者如何快速查看互联网全平台的热点新闻？
+
+
+
+前往今日热榜
+
+[https://tophub.today/](https://tophub.today/)
+
+可以查看全网最新的热点新闻榜单
+
+
+
+![fire](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/fire.png)
+
+
+
+## 20.  如何快速识别图片中的字体？
+
+
+
+我们可以前往 [http://www.qiuziti.com/](http://www.qiuziti.com/) 使用求字体网的在线服务，快速识别字体（建议将字体裁剪为单个字符后再进行识别!）
+
+
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
+
