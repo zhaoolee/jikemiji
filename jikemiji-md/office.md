@@ -277,16 +277,18 @@ slmgr /skms kms.v0v.bid && slmgr /ato
 如遇报错请访问 [https://v0v.bid/](https://v0v.bid/)
 
 
-## 22. 如何免费下载youtube超清视频？
+## 22. 如何下载youtube视频(简单)？
 
 如果不知youtube为何物请跳过本问题
 
 进入 [https://zh.savefrom.net/](https://zh.savefrom.net/) 
 
+![image-20201123084229622](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123084229622.png)
+
 输入需要下载的YouTube 视频url, 即可下载。
 
 
-## 23. 如何免费批量下载youtebe视频？
+## 23. 如何批量下载youtebe视频？（需要安装软件）
 
 使用youtube-dl可以批量下载视频
 
@@ -304,6 +306,11 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 详细操作步骤: [https://www.v2fy.com/p/2020-10-24-youtube-dl/](https://www.v2fy.com/p/2020-10-24-youtube-dl/)
 
+如果你想下载更多网站的视频,可以尝试另一款命令行工具，**you-get**
+
+[https://github.com/soimort/you-get](https://github.com/soimort/you-get)
+
+![you-get](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/you-get.png)
 
 
 ## 24. 如何关闭Windows自动更新？
@@ -334,4 +341,79 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 
 
+![image-20201123084255373](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123084255373.png)
+
 网站内都是免费可商用字体，并可自由下载
+
+
+## 26. 如何找BT种子？
+
+前往聚bt  [https://jubt.net/](https://jubt.net/)
+
+![image-20201123084345122](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123084345122.png)
+
+内含各种BT种子站
+
+
+## 27. 如何下载抖音无水印视频？
+
+前往 **抖音短视频无水印解析下载**
+
+[http://tool.liumingye.cn/douyin/](http://tool.liumingye.cn/douyin/)
+
+![image-20201123084403345](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123084403345.png)
+
+
+
+粘贴视频分享链接，即可获得抖音无水印视频
+
+
+## 28. 如何获得优质抽象小人素材？（用于PPT插图）
+
+前往 [http://pictogram2.com/](http://pictogram2.com/)
+
+
+
+![image-20201123084422087](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123084422087.png)
+
+可以各种形态的超清小人素材
+
+## 29. 如何不写代码制作一个公司官网？
+
+推荐使用wordpress建站，wordpress是本星球最强大的建站程序，主题超多而且免费。
+
+WordPress官网 [https://wordpress.org/](https://wordpress.org/)
+
+WordPress商业版中文官网（收费版）：[https://zh-cn.wordpress.com/](https://zh-cn.wordpress.com/)
+
+![image-20201123090210447](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123090210447.png)
+
+WordPress廉价建站教程（香港阿里云服务器，免备案，每月20大洋）：[https://www.bilibili.com/video/BV1gi4y1877t](https://www.bilibili.com/video/BV1gi4y1877t)
+
+
+
+另外, 我自己的网站也是wordpress构建的 [https://v2fy.com](https://v2fy.com)  免费插件超多，不需要自己开发，省心！
+
+
+
+## 30. Windows上有哪些值得一试的软件？
+
+
+
+Windows上优质&精选的最佳应用程序及工具列表
+
+![image-20201123090138753](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201123090138753.png)
+
+[https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+
+
+
+
+
+
+
+
+
+---
+
+[阅读原文](https://v2fy.com/p/office/)： [https://v2fy.com/p/office/](https://v2fy.com/p/office/)
