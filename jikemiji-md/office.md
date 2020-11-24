@@ -4,6 +4,8 @@ title:  打工人防加班办公技巧合集（持续连载中...）
 
 
 
+![office-001](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/office-001.jpeg)
+
 ## 1. 如何免费无损批量压缩图片？
 
 
@@ -265,7 +267,9 @@ https://msdn.itellyou.cn/
 
 ![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/73504194-8382c000-4409-11ea-93ff-b71107dc8bdf.gif)
 
-## 21. 如何激活Windows
+![21-27](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/21-27.jpeg)
+
+## 21. 如何激活Windows?
 
 
 
@@ -277,7 +281,7 @@ slmgr /skms kms.v0v.bid && slmgr /ato
 如遇报错请访问 [https://v0v.bid/](https://v0v.bid/)
 
 
-## 22. 如何下载youtube视频(简单)？
+## 22. 如何下载单个youtube视频(简单)？
 
 如果不知youtube为何物请跳过本问题
 
@@ -288,7 +292,7 @@ slmgr /skms kms.v0v.bid && slmgr /ato
 输入需要下载的YouTube 视频url, 即可下载。
 
 
-## 23. 如何批量下载youtebe视频？（需要安装软件）
+## 23. 如何批量下载youtube视频？（需要安装软件）
 
 使用youtube-dl可以批量下载视频
 

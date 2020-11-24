@@ -133,6 +133,9 @@
 [技术不断进击，思考悄然败退](https://www.v2fy.com/p/2020-11-20-books/)
 
 
+[老爷机最后的荣光！Photoshop2018 32位免激活绿色精简直装版（可用人像识别）](https://www.v2fy.com/p/2020-11-24-ps2018/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
