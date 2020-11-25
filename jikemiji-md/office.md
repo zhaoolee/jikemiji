@@ -412,7 +412,132 @@ Windows上优质&精选的最佳应用程序及工具列表
 
 
 
+## 31. 如何快速下载Office全家桶并自动激活？
 
+
+
+推荐使用 Office Tool Plus 进行 **office的全自动安装和激活**。Office Tool Plus 基于 Office 部署工具 (ODT) 打造，可以很轻松地部署 Office。甚至**可以下载Office最新的预览版进行自动安装并激活**。(微软骂骂咧咧退出了直播间)
+
+![image-20201125084650412](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125084650412.png)
+
+Office Tool Plus 是一款完全免费的工具，没有强制性推广以及弹窗广告。（截止2020年11月25日，依然是免费干净的）
+
+
+
+Office Tool Plus 中文版下载地址： [https://otp.landian.vip/zh-cn/download.html](https://otp.landian.vip/zh-cn/download.html)
+
+![image-20201125084630582](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125084630582.png)
+
+
+
+## 32. 手机如何实现图片转文字？
+
+
+
+打开手机QQ，右上角扫一扫， 选择转文字，即可实现**拍照转文字**，**从相册中选取图片转文字**
+
+![Screenshot_20201125-085231](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/Screenshot_20201125-085231.jpg)
+
+
+
+![WeChat72b754b8e9ef3bd8425d48f6bf2cc45d](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/WeChat72b754b8e9ef3bd8425d48f6bf2cc45d.png)
+
+
+
+## 33.  如何实现安卓手机无网络面对面互传大量文件照片？
+
+QQ有一个面对面快传文件的功能，适合大量互传文件，无需联网，且不耗费流量。
+
+
+
+![image-20201125090952642](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125090952642.png)
+
+不得不吹一波QQ传文件的功能：apk文件可以直接安装，从网络下载的 epub电子书可以直接发送到 **掌阅** 进行阅读
+
+
+
+
+
+## 34. 如何转视频到mp4格式？
+
+格式工厂是我这些年用过的，**最好用的视频格式转换软件**， 而且支持视频转音频，常用图片格式互转。
+
+![image-20201125091942514](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125091942514.png)
+
+官网下载地址： [http://www.pcgeshi.com/](http://www.pcgeshi.com/)
+
+
+
+**用户真实评价：绝对好，用过许多转换软件，还是格式工厂让我满意**
+
+
+## 35. 如何在线解析查看下载国内各种平台的版权视频？
+
+
+船长解析： [http://czjx8.com/](http://czjx8.com/)
+
+
+船长解析-vip视频在线解析，免费在线查看下载爱奇艺，腾讯，优酷，芒果，bilibili 的 vip视频
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/0008.gif)
+
+无广告模式
+
+![](https://www.v2fy.com/asset/019-vip-movie/0003.gif)
+
+下载视频
+
+![](https://www.v2fy.com/asset/019-vip-movie/0005.gif)
+
+## 36. 如何获得macOS历代壁纸？（需要魔法上网）
+
+[https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3)
+
+![image-20201125094658099](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125094658099.png)
+
+## 37. 如何获得iOS历代壁纸？（需要魔法上网）
+
+[https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3)
+
+
+
+![image-20201125094630962](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125094630962.png)
+
+
+## 38. 如何获得bing主页历史壁纸？
+
+[https://www.todaybing.com/](https://www.todaybing.com/)
+
+![image-20201125094540904](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125094540904.png)
+
+## 39. 如何使用机器学习技术在线放大照片？
+
+使用PS或PhotoZoom，放大的图片后依然有明显的模糊感，边缘的重影以及噪点。而Bigjpg使用最新人工智能深度学习技术——深度卷积神经网络。它会将噪点和锯齿的部分进行补充，实现图片的无损放大。Bigjpg对于动漫、插画图片的放大几乎可以说是完美的。将小图片放大后，无论是色彩、细节、边缘，效果都很出色。同时也兼容普通的照片放大。
+
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/t026-bigjpg.gif)
+
+![image-20200829144223539](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20200829144223539.png)
+
+
+
+## 40. 如何解除Smallpdf每小时两个任务的限制？
+
+
+
+
+
+smallpdf.com 是目前最好用的在线pdf处理工具，
+
+
+
+![image-20201125095317418](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/image-20201125095317418.png)
+
+
+
+但每小时只能完成两个在线任务，如果你需要一小时之内处理多个任务，可以打开Chrome开发者工具手动清除本地浏览器的记录。
+
+![](https://www.v2fy.com/asset/0i/jikemiji/jikemiji-md/office.assets/9836104691024b27b25ddc7411681bf8.gif)
 
 
 
