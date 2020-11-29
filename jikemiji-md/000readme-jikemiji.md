@@ -142,6 +142,9 @@
 [如何设计一张简单的传单(以租房招室友为例)](https://www.v2fy.com/p/2020-11-29-icon/)
 
 
+[可以在安卓11运行，免费《听/下》全平台音乐的App](https://www.v2fy.com/p/2020-11-30-music/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
