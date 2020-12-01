@@ -148,7 +148,7 @@
 [安卓11免费《听/下》全平台音乐的App， Windows更换动态壁纸和屏保](https://www.v2fy.com/p/2020-12-01-book/)
 
 
-[如何在打包Linux镜像时填入git账户密码](https://www.v2fy.com/p/2020-12-01-netrc/)
+[如何在打包Linux的Docker镜像时填入git账户密码](https://www.v2fy.com/p/2020-12-01-netrc/)
 
 
 [在Ubuntu20.04虚拟机搭建开发环境](https://www.v2fy.com/p/2020-12-02-ubuntu20-dev/)
