@@ -148,6 +148,9 @@
 [安卓11免费《听/下》全平台音乐的App， Windows更换动态壁纸和屏保](https://www.v2fy.com/p/2020-12-01-book/)
 
 
+[在Ubuntu20.04虚拟机搭建开发环境](https://www.v2fy.com/p/2020-12-02-ubuntu20-dev/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
