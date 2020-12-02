@@ -151,7 +151,7 @@
 [如何在打包Linux的Docker镜像时填入git账户密码](https://www.v2fy.com/p/2020-12-01-netrc/)
 
 
-[在Ubuntu20.04虚拟机搭建Node.js开发环境](https://www.v2fy.com/p/2020-12-02-ubuntu20-dev/)
+[Windows10安装Ubuntu20.04虚拟机折腾全纪录(持续更新中)](https://www.v2fy.com/p/2020-12-02-ubuntu20-dev/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
