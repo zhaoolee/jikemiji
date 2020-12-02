@@ -142,10 +142,10 @@
 [如何设计一张简单的传单(以租房招室友为例)](https://www.v2fy.com/p/2020-11-29-icon/)
 
 
-[那些令人印象深刻的书籍献词～ 一些有趣的书的献词](https://www.v2fy.com/p/2020-11-30-music/)
+[公众号「0加1」](https://www.v2fy.com/p/2020-11-30-music/)
 
 
-[安卓11免费《听/下》全平台音乐的App， Windows更换动态壁纸和屏保](https://www.v2fy.com/p/2020-12-01-book/)
+[那些令人印象深刻的书籍献词～ 一些有趣的书的献词](https://www.v2fy.com/p/2020-12-01-book/)
 
 
 [如何在打包Linux的Docker镜像时填入git账户密码](https://www.v2fy.com/p/2020-12-01-netrc/)
