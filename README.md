@@ -154,6 +154,9 @@
 [Windows10安装Ubuntu20.04虚拟机折腾全纪录(持续更新中)](https://www.v2fy.com/p/2020-12-02-ubuntu20-dev/)
 
 
+[腾讯云社区福利：抽腾讯视频会员](https://www.v2fy.com/p/2020-12-04-tencent/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
