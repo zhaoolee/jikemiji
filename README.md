@@ -157,6 +157,9 @@
 [腾讯云社区福利：抽腾讯视频会员](https://www.v2fy.com/p/2020-12-04-tencent/)
 
 
+[插入Word图片清晰度被压缩怎么办？顺便安利一波mdnice的拖拽传图和导出PDF的功能](https://www.v2fy.com/p/2020-12-05-md/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
