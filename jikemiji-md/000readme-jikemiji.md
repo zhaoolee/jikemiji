@@ -160,6 +160,9 @@
 [插入Word图片清晰度被压缩怎么办？顺便安利一波mdnice的拖拽传图和导出PDF的功能](https://www.v2fy.com/p/2020-12-05-md/)
 
 
+[可替代TeamView的免费远程控制软件ToDesk](https://www.v2fy.com/p/2020-12-07-todesk/)
+
+
 [Parallels Desktop虚拟机不为人知的优质功能：端口映射](https://www.v2fy.com/p/2020-12-07-vm/)
 
 
