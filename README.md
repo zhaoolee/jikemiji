@@ -172,6 +172,9 @@
 [进击的巨人最终季B站更新！Mac最新版Big Sur虚拟机如何联网？ 更好用的Windows软件卸载工具HiBit绿色版](https://www.v2fy.com/p/2020-12-08-birthday/)
 
 
+[Windows10版本一键转换工具](https://www.v2fy.com/p/2020-12-10-win/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
