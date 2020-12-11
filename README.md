@@ -175,6 +175,9 @@
 [Windows10版本一键转换工具](https://www.v2fy.com/p/2020-12-10-win/)
 
 
+[《赛博朋克2077》启示录（蠢驴良心出品，超棒汉化！人物讲普通话口型都能对上）](https://www.v2fy.com/p/2020-12-11-game/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
