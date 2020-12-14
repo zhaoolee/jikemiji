@@ -190,6 +190,9 @@
 [Go语言网络编程入门（写Api接口）](https://www.v2fy.com/p/2020-12-13-go/)
 
 
+[让操作系统环境更干净之Linux的PATH变量！](https://www.v2fy.com/p/2020-12-14-path/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
