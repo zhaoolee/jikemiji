@@ -190,6 +190,9 @@
 [Go语言网络编程入门（写Api接口）](https://www.v2fy.com/p/2020-12-13-go/)
 
 
+[在Ubuntu 20.04中安装系统级最新版Go语言安装包,并新建项目](https://www.v2fy.com/p/2020-12-14-install-go/)
+
+
 [可听周杰伦许嵩周深的歌，Windows，macOS，Linux均可用的全平台音乐播放器](https://www.v2fy.com/p/2020-12-14-music/)
 
 
