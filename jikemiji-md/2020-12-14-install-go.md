@@ -6,25 +6,25 @@ title:  在Ubuntu 20.04中安装系统级最新版Go语言安装包,并新建项
 
 - 启用root用户
 
-```
+```sh
 sudo passwd root
 ```
 
 - 进入root账户
 
-```
+```sh
 su
 ```
 
 ## 获取安装包
 
-```
+```sh
 cd /usr/local
 wget https://golang.org/dl/go1.15.6.linux-amd64.tar.gz
 ```
 
 ## 将安装包解压到`/usr/local`目录
-```
+```sh
 tar -C /usr/local -zxvf go1.15.6.linux-amd64.tar.gz
 # 移除安装包
 rm go1.15.6.linux-amd64.tar.gz
@@ -35,7 +35,7 @@ rm go1.15.6.linux-amd64.tar.gz
 
 由于`/etc/profile` 从`/etc/profile.d`文件夹读取配置文件, 为了不对`/etc/profile`造成破坏性更改,我们选择在`/etc/profile.d`新建文件`go.sh`,并在`go.sh`中填入环境变量
 
-```
+```sh
 touch /etc/profile.d/go.sh
 chmod 777 /etc/profile.d/go.sh
 # 注意下面的$PATH前面有一个反斜杠,反斜杠一定要有,否则$PATH会被当做变量,写入的内容会超长
@@ -44,7 +44,7 @@ echo "export PATH=/usr/local/go/bin:\$PATH" > /etc/profile.d/go.sh
 
 ## 执行profile并生效
 
-```
+```sh
 source /etc/profile
 ```
 
@@ -55,7 +55,7 @@ source /etc/profile
 
 ## 卸载go语言包,并重载配置文件
 
-```
+```sh
 rm /etc/profile.d/go.sh
 rm -rf /usr/local/go
 source /etc/profile
@@ -66,7 +66,7 @@ source /etc/profile
 ## 开始开发
 
 
-```
+```sh
 # 进入桌面
 cd ~/Desktop
 # 创建文件夹go-demo
@@ -147,13 +147,13 @@ func main() {
 - 运行代码
 
 
-```shell
+```sh
 go run main.go
 ```
 
 - 用浏览器打开页面
 
-```
+```html
 http://127.0.0.1:8080/ping
 ```
 
@@ -169,7 +169,7 @@ http://127.0.0.1:8080/ping
 
 运行上图代码时,会从github自动下载依赖包,但这些依赖包并不在项目中,而是下载到了 `GOPATH` 路径下的 /pkg/mod文件夹下
 
-```go
+```sh
 # 查看 GOPATH 路径
 go env | grep GOPATH
 ```
