@@ -202,6 +202,9 @@
 [《Snipaste》最好用的截图工具，也是最好用的快捷取色工具](https://www.v2fy.com/p/2020-12-17-snipaste/)
 
 
+[《赛博朋克2077》上手体验](https://www.v2fy.com/p/2020-12-21-2077/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
