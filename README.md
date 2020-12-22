@@ -205,6 +205,9 @@
 [《赛博朋克2077》上手体验](https://www.v2fy.com/p/2020-12-21-2077/)
 
 
+[迅雷X去广告终结版 Thunder X](https://www.v2fy.com/p/2020-12-22-xunlei/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
