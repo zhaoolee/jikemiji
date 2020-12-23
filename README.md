@@ -208,6 +208,9 @@
 [迅雷X去广告终结版 Thunder X](https://www.v2fy.com/p/2020-12-22-xunlei/)
 
 
+[从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
