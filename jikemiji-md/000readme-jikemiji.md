@@ -208,6 +208,9 @@
 [迅雷X去广告终结版 Thunder X](https://www.v2fy.com/p/2020-12-22-xunlei/)
 
 
+[相机摄影比手机摄影好在哪儿？](https://www.v2fy.com/p/2020-12-23-camera/)
+
+
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
