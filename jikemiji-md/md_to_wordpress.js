@@ -9,6 +9,9 @@ const os = require('os');
 // 加分类
 let category_list = ["公众号「0加1」"];
 
+// 公众号0加1的categories数值
+let categories = [28]
+
 // 默认title
 let default_title = category_list[0];
 
@@ -73,7 +76,7 @@ async function get_md_filename_id_dic() {
   // 获取总页码数量
   let x_wp_totalpages = await axios({
     method: "get",
-    url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=1&per_page=100"
+    url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=1&per_page=100&categories="+categories[0]
   }).then(res => {
     return new Promise((resolve, reject) => {
       resolve(parseInt(res.headers["x-wp-totalpages"]));
@@ -85,7 +88,7 @@ async function get_md_filename_id_dic() {
   for (let i = 1; i <= x_wp_totalpages; i++) {
     await axios({
       method: "get",
-      url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=" + i
+      url: "https://www.v2fy.com/wp-json/wp/v2/posts?per_page=100&categories="+categories[0]+"&page=" + i
     }).then(res => {
       let res_data = res.data;
 
