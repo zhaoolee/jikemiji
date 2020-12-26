@@ -220,6 +220,9 @@
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
 
 
+[简单点的Python入门课! 写一个Python匿名函数](https://www.v2fy.com/p/2020-12-26-python-no-name-function-1608994197000/)
+
+
 [Python实现简单易懂的udp传输协议](https://www.v2fy.com/p/2020-12-26-python-udp-1608994021000/)
 
 
