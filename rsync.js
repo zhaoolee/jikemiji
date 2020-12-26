@@ -170,7 +170,7 @@ function local_file_href_2_https_href(md_file_name) {
 
 // 将Markdown文件中本地图片链接替换为网络图片链接
 async function local_href_2_https_href() {
-  let md_file_list = get_md_file_list();
+  let md_file_list = await get_md_file_list();
 
   console.log("md_file_list==>>", md_file_list);
   // md_file_list = ["kr-000046.md"];
