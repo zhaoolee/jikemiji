@@ -179,4 +179,4 @@ go env | grep GOPATH
 
 ## 阅读原文（支持读写评论）
 
-[https://www.v2fy.com/p/2020-12-14-path/](https://www.v2fy.com/p/2020-12-14-path/)
+[https://www.v2fy.com/p/2020-12-14-install-go/](https://www.v2fy.com/p/2020-12-14-install-go/)

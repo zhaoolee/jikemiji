@@ -214,6 +214,9 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
+[Windows一键永久数字激活工具,赛博朋克2077辅助工具](https://www.v2fy.com/p/2020-12-26-windows/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
