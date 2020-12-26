@@ -214,6 +214,9 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
+[如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
+
+
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
