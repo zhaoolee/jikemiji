@@ -141,7 +141,7 @@ async function get_all_md_file_pathname() {
   // let all_files = fs.readdirSync(root);
   // 使用新的方式进行替换
 
-  let all_files = [fse.readJSONSync(path.join(__dirname, "..", "md_files.json"))]["md_files"];
+  let all_files = fse.readJSONSync(path.join(__dirname, "..", "md_files.json"))["md_files"];
 
   let all_md_files = [];
 
