@@ -229,6 +229,9 @@
 [Python实现简单易懂的udp传输协议](https://www.v2fy.com/p/2020-12-26-python-udp-1608994021000/)
 
 
+[Python3源码实现TCP套接字绑定双端口传输文件](https://www.v2fy.com/p/2020-12-26-send-file-python3-1608994572000/)
+
+
 [最简单靠谱的vsftpd安装指南（Ubuntu16.04）](https://www.v2fy.com/p/2020-12-26-vsftpd-1608993201000/)
 
 
