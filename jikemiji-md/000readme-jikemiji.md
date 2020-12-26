@@ -217,6 +217,9 @@
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
+[最简单靠谱的vsftpd安装指南（Ubuntu16.04）](https://www.v2fy.com/p/2020-12-26-vsftpd-1608993201000/)
+
+
 [Windows一键永久数字激活工具,赛博朋克2077辅助工具](https://www.v2fy.com/p/2020-12-26-windows/)
 
 
