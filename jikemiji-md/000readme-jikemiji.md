@@ -226,6 +226,9 @@
 [简单点的Python入门课! 写一个Python匿名函数](https://www.v2fy.com/p/2020-12-26-python-no-name-function-1608994197000/)
 
 
+[Python3简单实现多任务(多进程篇)](https://www.v2fy.com/p/2020-12-26-python-pool-1608997854000/)
+
+
 [Python3中的进程/线程/协程](https://www.v2fy.com/p/2020-12-26-python-process-1608997245000/)
 
 
