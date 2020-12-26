@@ -16,6 +16,8 @@ const md_dir_name = "jikemiji-md";
 
 // 需要排除的md文件
 
+const need_update_article = "need_update_article"
+
 const exclude_md_files = [];
 
 // 自定义
@@ -41,11 +43,11 @@ async function update_data() {
       .compress()
       .exclude([".*/", "up.js"])
       .output(
-        function(data) {
+        function (data) {
           // do things like parse progress
           console.log("=传输数据=>>", data.toString());
         },
-        function(data) {
+        function (data) {
           // do things like parse error output
           console.log("=数据传输报错=>>", data.toString());
         }
@@ -54,21 +56,55 @@ async function update_data() {
       .destination("root@v2fy.com:" + target_path);
 
     // Execute the command
-    rsync.execute(function(error, code, cmd) {
+    rsync.execute(function (error, code, cmd) {
       console.log("error", error);
       console.log("code", code);
       console.log("cmd", cmd);
       resolve();
     });
-  }).then(() => {});
+  }).then(() => { });
 }
 
 // 获取md文件
 
-function get_md_file_list() {
+async function get_md_file_list() {
   // 读取当前当前目录下的.md文件
-  let root = "./";
-  root = path.join(__dirname, md_dir_name);
+  let root = path.join(__dirname, need_update_article);
+  console.log(root);
+  let all_files = fs.readdirSync(root);
+  let all_md_files = [];
+
+  // 获取md文件列表
+  all_files.map((file_name, file_index) => {
+    if (file_name.endsWith(".md")) {
+      // md文件不包含在排除列表中
+      if (exclude_md_files.indexOf(file_name) === -1) {
+        all_md_files.push(file_name);
+      }
+    }
+  });
+
+  // 将 need_update_aritcle中的所有文件移动到jikemiji-md
+  let src_file_list = fse.readdirSync(path.join(__dirname, need_update_article), { withFileTypes: true });
+  console.log(src_file_list);
+  console.log(src_file_list);
+  for (let i = 0, src_file_list_length = src_file_list.length; i < src_file_list_length; i++) {
+    console.log(src_file_list[i]["name"]);
+    fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]))
+  }
+  // 执行同步数据工作
+
+  // 改权限
+  await md_and_img_chmodr(path.join(__dirname, md_dir_name));
+  // 先同步数据到服务端
+  await update_data();
+
+  return all_md_files;
+}
+
+function before_get_md_file_list() {
+  // 读取当前当前目录下的.md文件
+  let root = path.join(__dirname, md_dir_name);
   console.log(root);
   let all_files = fs.readdirSync(root);
   let all_md_files = [];
@@ -96,7 +132,7 @@ function local_file_href_2_https_href(md_file_name) {
 
   let md_img_addr_list = file_content.match(img_addr_re);
 
-  if(md_img_addr_list === null){
+  if (md_img_addr_list === null) {
     md_img_addr_list = []
 
   }
@@ -116,7 +152,7 @@ function local_file_href_2_https_href(md_file_name) {
       file_content = file_content.replace(tmp_md_img_addr, new_tmp_md_img_addr);
 
       console.log("准备替换==>", tmp_md_img_addr, "为==>>", new_tmp_md_img_addr)
-    }else{
+    } else {
       console.log("略过==>>", img_addr);
 
 
@@ -125,7 +161,7 @@ function local_file_href_2_https_href(md_file_name) {
 
   console.log(file_content);
 
-  fs.writeFileSync(whole_md_file_path, file_content, {encoding: "utf8"})
+  fs.writeFileSync(whole_md_file_path, file_content, { encoding: "utf8" })
 
   // file_content = file_content.replace(/\!\[.*\]\(.*\)/g, target_url+'$1');
 
@@ -146,8 +182,8 @@ async function local_href_2_https_href() {
   }
 }
 
-async function md_and_img_chmodr(path){
-  await new Promise((resolve, reject)=>{
+async function md_and_img_chmodr(path) {
+  await new Promise((resolve, reject) => {
     chmodr(path, 0o777, (err) => {
       if (err) {
         console.log('Failed to execute chmod', err);
@@ -157,24 +193,13 @@ async function md_and_img_chmodr(path){
       }
     });
   })
-
-
 }
 
 
 async function main() {
 
-  // 改权限
-
-  await md_and_img_chmodr(path.join(__dirname, md_dir_name));
-  
-
-  // 先同步数据到服务端
-  await update_data();
-
-  // console.log("执行完成")
-
   await local_href_2_https_href();
+
 }
 
 main();

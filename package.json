@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node rsync.js && node push.js",
+    "new": "node new_article.js",
     "push": "node rsync.js && node push.js && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
@@ -23,6 +24,7 @@
     "chmodr": "^1.2.0",
     "download": "^7.1.0",
     "fs-extra": "^8.1.0",
+    "moment": "^2.29.1",
     "rsync": "^0.6.1",
     "showdown": "^1.9.1"
   }
