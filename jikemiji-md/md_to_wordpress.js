@@ -73,7 +73,7 @@ async function get_md_filename_id_dic() {
   // 获取总页码数量
   let x_wp_totalpages = await axios({
     method: "get",
-    url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=1"
+    url: "https://www.v2fy.com/wp-json/wp/v2/posts?page=1&per_page=100"
   }).then(res => {
     return new Promise((resolve, reject) => {
       resolve(parseInt(res.headers["x-wp-totalpages"]));
@@ -230,7 +230,6 @@ async function sync_md_content_to_wordpress(
   }
 
   // 如果存在则更新文章
-
   if (id !== "") {
     console.log("更新文章-id", id)
     md_file_name_title_content["id"] = id;
