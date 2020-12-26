@@ -84,13 +84,16 @@ async function get_md_file_list() {
     }
   });
 
+
+  fse.writeJsonSync(path.join(__dirname, "md_files.json"),{"md_files": all_md_files})
+
   // 将 need_update_aritcle中的所有文件移动到jikemiji-md
   let src_file_list = fse.readdirSync(path.join(__dirname, need_update_article), { withFileTypes: true });
   console.log(src_file_list);
   console.log(src_file_list);
   for (let i = 0, src_file_list_length = src_file_list.length; i < src_file_list_length; i++) {
     console.log(src_file_list[i]["name"]);
-    fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]))
+    fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]), { overwrite: true })
   }
   // 执行同步数据工作
 
