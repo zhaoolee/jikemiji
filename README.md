@@ -214,6 +214,9 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
+[gevent实现静态web服务器(协程实现)](https://www.v2fy.com/p/2020-12-26-gevent-1608998309000/)
+
+
 [如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
 
 
