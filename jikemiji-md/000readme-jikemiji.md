@@ -217,6 +217,9 @@
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
+[使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
+
+
 [最简单靠谱的vsftpd安装指南（Ubuntu16.04）](https://www.v2fy.com/p/2020-12-26-vsftpd-1608993201000/)
 
 
