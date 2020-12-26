@@ -241,6 +241,9 @@
 [Python实现简单易懂的udp传输协议](https://www.v2fy.com/p/2020-12-26-python-udp-1608994021000/)
 
 
+[精析Python3实现动态web服务(附服务端源码)](https://www.v2fy.com/p/2020-12-26-python-web-1608998454000/)
+
+
 [正则 (入门篇)](https://www.v2fy.com/p/2020-12-26-re-1608997509000/)
 
 
