@@ -271,6 +271,9 @@
 [正则 (入门篇)](https://www.v2fy.com/p/2020-12-26-re-1608997509000/)
 
 
+[高性能Redis数据库快速入门  |  (附Redis常用命令)](https://www.v2fy.com/p/2020-12-26-redis-1609038633000/)
+
+
 [Window10可运行绿色版扫雷](https://www.v2fy.com/p/2020-12-26-saolei-1609029759000/)
 
 
