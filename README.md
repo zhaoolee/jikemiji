@@ -274,6 +274,9 @@
 [Python交互数据库（Mysql | Mongodb | Redis）](https://www.v2fy.com/p/2020-12-26-mysql-mongodb-redis-1609041410000/)
 
 
+[推荐一些效率实用的mac版软件](https://www.v2fy.com/p/2020-12-26-nice-macapp-1609045934000/)
+
+
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
