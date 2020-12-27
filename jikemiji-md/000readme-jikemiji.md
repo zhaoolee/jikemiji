@@ -379,6 +379,18 @@
 [Django取真经](https://www.v2fy.com/p/2020-12-27-django_process_response-1609053552000/)
 
 
+[Git命令备忘录](https://www.v2fy.com/p/2020-12-27-git-1609058835000/)
+
+
+[Github变身网络硬盘](https://www.v2fy.com/p/2020-12-27-github-disk-1609059045000/)
+
+
+[如何理解计算机中的神经网络？](https://www.v2fy.com/p/2020-12-27-input-out-1609058700000/)
+
+
+[简书文章发布到GitHub](https://www.v2fy.com/p/2020-12-27-jianshu-github-1609058924000/)
+
+
 [《jQury动态布局》浮动子元素均分布局](https://www.v2fy.com/p/2020-12-27-jquery-float-1609054906000/)
 
 
