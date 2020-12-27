@@ -223,6 +223,9 @@
 [gevent实现静态web服务器(协程实现)](https://www.v2fy.com/p/2020-12-26-gevent-1608998309000/)
 
 
+[讲个故事，为什么IP地址与Mac地址缺一不可?](https://www.v2fy.com/p/2020-12-26-ip-mac-1609041566000/)
+
+
 [如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
 
 
