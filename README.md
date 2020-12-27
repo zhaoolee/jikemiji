@@ -229,6 +229,9 @@
 [《讲个故事》cookie是什么?](https://www.v2fy.com/p/2020-12-26-cookie-1609045522000/)
 
 
+[详解Django自定义过滤器](https://www.v2fy.com/p/2020-12-26-django-1609045685000/)
+
+
 [Free Download Manager免费支持Window Mac Linux Andrios自带加速支持BT的通用开源下载工具](https://www.v2fy.com/p/2020-12-26-fdm-1609030424000/)
 
 
