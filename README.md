@@ -214,6 +214,9 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
+[往"某度文库"上传资源之前,请先做好这些...](https://www.v2fy.com/p/2020-12-26-baiduwenku-1609042302000/)
+
+
 [Python模块性能测试](https://www.v2fy.com/p/2020-12-26-check-python-code-1609037718000/)
 
 
