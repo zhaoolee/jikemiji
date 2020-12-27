@@ -223,6 +223,9 @@
 [如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
 
 
+[Mysql账户管理(账户的添加,授权,改密,删除)](https://www.v2fy.com/p/2020-12-26-mysql-account-1609033470000/)
+
+
 [《思维导图》Mysql常用查询语法](https://www.v2fy.com/p/2020-12-26-mysql-map-1609032876000/)
 
 
