@@ -235,6 +235,9 @@
 [搬离简书指南！](https://www.v2fy.com/p/2020-12-26-jianshu-1609042519000/)
 
 
+[解密"秒杀"软件 | JavaScript最佳入门案例](https://www.v2fy.com/p/2020-12-26-js-demo-1609043115000/)
+
+
 [如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
 
 
