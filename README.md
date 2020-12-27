@@ -232,6 +232,9 @@
 [详解Django自定义过滤器](https://www.v2fy.com/p/2020-12-26-django-1609045685000/)
 
 
+[自己动手,打造更好用的Django](https://www.v2fy.com/p/2020-12-26-easy-django-1609046182000/)
+
+
 [Free Download Manager免费支持Window Mac Linux Andrios自带加速支持BT的通用开源下载工具](https://www.v2fy.com/p/2020-12-26-fdm-1609030424000/)
 
 
