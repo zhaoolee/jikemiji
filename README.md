@@ -214,6 +214,9 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
+[《脚本小子》用python检测python | 批量检查注释率是否达标](https://www.v2fy.com/p/2020-12-26-check-python-code-1609037718000/)
+
+
 [Free Download Manager免费支持Window Mac Linux Andrios自带加速支持BT的通用开源下载工具](https://www.v2fy.com/p/2020-12-26-fdm-1609030424000/)
 
 
