@@ -214,7 +214,7 @@
 [从卸载App开始... 不玩手机可以做些什么？](https://www.v2fy.com/p/2020-12-23-uninstall/)
 
 
-[《脚本小子》用python检测python | 批量检查注释率是否达标](https://www.v2fy.com/p/2020-12-26-check-python-code-1609037718000/)
+[Python模块性能测试](https://www.v2fy.com/p/2020-12-26-check-python-code-1609037718000/)
 
 
 [Free Download Manager免费支持Window Mac Linux Andrios自带加速支持BT的通用开源下载工具](https://www.v2fy.com/p/2020-12-26-fdm-1609030424000/)
@@ -245,6 +245,9 @@
 
 
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
+
+
+[<开发技巧>Python模块性能测试](https://www.v2fy.com/p/2020-12-26-python-insert-1609037946000/)
 
 
 [简单点的Python入门课! 写一个Python匿名函数](https://www.v2fy.com/p/2020-12-26-python-no-name-function-1608994197000/)
