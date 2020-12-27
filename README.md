@@ -229,6 +229,9 @@
 [讲个故事，为什么IP地址与Mac地址缺一不可?](https://www.v2fy.com/p/2020-12-26-ip-mac-1609041566000/)
 
 
+[搬离简书指南！](https://www.v2fy.com/p/2020-12-26-jianshu-1609042519000/)
+
+
 [如何解决linux特定端口被占用？](https://www.v2fy.com/p/2020-12-26-linux-port-1608994348000/)
 
 
