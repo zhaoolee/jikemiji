@@ -220,6 +220,9 @@
 [Python模块性能测试](https://www.v2fy.com/p/2020-12-26-check-python-code-1609037718000/)
 
 
+[《中午吃什么？》制作一个简单的chrome扩展](https://www.v2fy.com/p/2020-12-26-chrome-ext-1609043250000/)
+
+
 [Free Download Manager免费支持Window Mac Linux Andrios自带加速支持BT的通用开源下载工具](https://www.v2fy.com/p/2020-12-26-fdm-1609030424000/)
 
 
