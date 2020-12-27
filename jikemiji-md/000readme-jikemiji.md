@@ -364,6 +364,9 @@
 [《杀手级》抓包软件wireshark入门](https://www.v2fy.com/p/2020-12-26-wireshark-1609037494000/)
 
 
+[阿里云部署Django全攻略](https://www.v2fy.com/p/2020-12-27-ali-django-1609055585000/)
+
+
 [百度贴吧 | 通用抓图脚本](https://www.v2fy.com/p/2020-12-27-baidu-tieba-1609053858000/)
 
 
@@ -380,6 +383,18 @@
 
 
 [在Linux环境部署项目常用命令和技巧](https://www.v2fy.com/p/2020-12-27-linux-1609054717000/)
+
+
+[本地Mysql数据库快速迁移到服务器](https://www.v2fy.com/p/2020-12-27-mysql-to-server-1609056072000/)
+
+
+[Python在线百度文库爬虫(免下载券)](https://www.v2fy.com/p/2020-12-27-python-baidu-web-1609057617000/)
+
+
+[Python实现多人在线匿名聊天的小程序](https://www.v2fy.com/p/2020-12-27-python-chat-1609056403000/)
+
+
+[Python为图片加水印](https://www.v2fy.com/p/2020-12-27-python-image-1609056318000/)
 
 
 [如何理解七桥问题？](https://www.v2fy.com/p/2020-12-27-seven-bridges-1609053736000/)
