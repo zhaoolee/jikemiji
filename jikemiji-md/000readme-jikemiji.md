@@ -367,10 +367,25 @@
 [百度贴吧 | 通用抓图脚本](https://www.v2fy.com/p/2020-12-27-baidu-tieba-1609053858000/)
 
 
+[百度文库下载器](https://www.v2fy.com/p/2020-12-27-baiduwenku-1609054427000/)
+
+
+[Python3 | Django后台管理框架Xadmin安装指南](https://www.v2fy.com/p/2020-12-27-django-xadmin-1609054799000/)
+
+
 [Django取真经](https://www.v2fy.com/p/2020-12-27-django_process_response-1609053552000/)
 
 
+[《jQury动态布局》浮动子元素均分布局](https://www.v2fy.com/p/2020-12-27-jquery-float-1609054906000/)
+
+
+[在Linux环境部署项目常用命令和技巧](https://www.v2fy.com/p/2020-12-27-linux-1609054717000/)
+
+
 [如何理解七桥问题？](https://www.v2fy.com/p/2020-12-27-seven-bridges-1609053736000/)
+
+
+[Shell编程入门实例](https://www.v2fy.com/p/2020-12-27-shell-1609054548000/)
 
 
 [软件为什么总会有Bug?](https://www.v2fy.com/p/2020-12-27-soft-bug-1609053649000/)
