@@ -373,6 +373,9 @@
 [百度文库下载器](https://www.v2fy.com/p/2020-12-27-baiduwenku-1609054427000/)
 
 
+[靠谱的iPhone批量换铃声图文教程](https://www.v2fy.com/p/2020-12-27-change-iphone-music-1609060192000/)
+
+
 [Python3 | Django后台管理框架Xadmin安装指南](https://www.v2fy.com/p/2020-12-27-django-xadmin-1609054799000/)
 
 
@@ -383,6 +386,12 @@
 
 
 [Github变身网络硬盘](https://www.v2fy.com/p/2020-12-27-github-disk-1609059045000/)
+
+
+[GitHub与新人类](https://www.v2fy.com/p/2020-12-27-github-human-1609060502000/)
+
+
+[推荐好玩一些的GitHub项目](https://www.v2fy.com/p/2020-12-27-github-recommend-1609059908000/)
 
 
 [如何理解计算机中的神经网络？](https://www.v2fy.com/p/2020-12-27-input-out-1609058700000/)
@@ -397,6 +406,9 @@
 [在Linux环境部署项目常用命令和技巧](https://www.v2fy.com/p/2020-12-27-linux-1609054717000/)
 
 
+[macOS Serria安装配置QT5.5](https://www.v2fy.com/p/2020-12-27-macos-serria-1609060025000/)
+
+
 [本地Mysql数据库快速迁移到服务器](https://www.v2fy.com/p/2020-12-27-mysql-to-server-1609056072000/)
 
 
@@ -406,7 +418,16 @@
 [Python实现多人在线匿名聊天的小程序](https://www.v2fy.com/p/2020-12-27-python-chat-1609056403000/)
 
 
+[Python数据挖掘环境搭建](https://www.v2fy.com/p/2020-12-27-python-data-env-1609059806000/)
+
+
+[万能的0和1之Python字典特征抽取](https://www.v2fy.com/p/2020-12-27-python-dic-get-info-1609060401000/)
+
+
 [Python为图片加水印](https://www.v2fy.com/p/2020-12-27-python-image-1609056318000/)
+
+
+[如何更专业地重装系统？](https://www.v2fy.com/p/2020-12-27-reinstall-windows-1609060117000/)
 
 
 [如何理解七桥问题？](https://www.v2fy.com/p/2020-12-27-seven-bridges-1609053736000/)
