@@ -48,6 +48,8 @@ title: 珍藏PC版壁纸
 
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/pc-wallpaper.md](https://www.v2fy.com/p/pc-wallpaper.md)
+[https://www.v2fy.com/p/pc-wallpaper](https://www.v2fy.com/p/pc-wallpaper)

@@ -37,6 +37,8 @@ title:  《冰点加天若》免费下载百度文库资源
 ![](https://www.v2fy.com/asset/soft-000012-bingdian/002.gif)
 
 **冰点下载器无广告版** 和 **天若OCR绿色版** 可以通过 在公众号 **0加1** 后台回复 **bo** 获取蓝奏云下载地址
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000012-bingdian.md](https://www.v2fy.com/p/soft-000012-bingdian.md)
+[https://www.v2fy.com/p/soft-000012-bingdian](https://www.v2fy.com/p/soft-000012-bingdian)

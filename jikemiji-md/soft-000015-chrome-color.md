@@ -38,6 +38,8 @@ title:  《Chrome换肤》Chrome团队精心推出的官方皮肤
 ## 本公众号开通了名为「0加1」的视频号
 
 今天收到了 微信视频号 的开通邀请, 名字依然是**0加1**, 明天推送一期视频压缩神器**小丸工具箱**!视频号会放出对应的超清视频, 也会在评论区放一些福利链接，欢迎关注视频号**0加1**
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000015-chrome-color.md](https://www.v2fy.com/p/soft-000015-chrome-color.md)
+[https://www.v2fy.com/p/soft-000015-chrome-color](https://www.v2fy.com/p/soft-000015-chrome-color)

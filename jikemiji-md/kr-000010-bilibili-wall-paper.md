@@ -25,6 +25,8 @@ https://github.com/zhaoolee/bilibili-wallpaper
 
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/kr-000010-bilibili-wall-paper.md](https://www.v2fy.com/p/kr-000010-bilibili-wall-paper.md)
+[https://www.v2fy.com/p/kr-000010-bilibili-wall-paper](https://www.v2fy.com/p/kr-000010-bilibili-wall-paper)

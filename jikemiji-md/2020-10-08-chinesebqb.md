@@ -176,6 +176,8 @@ title: 开源微信斗图神奇工具，表情包源新增《猫和老鼠》和�
 
 支持分享搜索结果
 [https://www.v2fy.com/asset/0i/ChineseBQB/?key_val=%E5%8C%97%E6%96%B9](https://www.v2fy.com/asset/0i/ChineseBQB/?key_val=%E5%8C%97%E6%96%B9)
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/2020-10-08-chinesebqb.md](https://www.v2fy.com/p/2020-10-08-chinesebqb.md)
+[https://www.v2fy.com/p/2020-10-08-chinesebqb](https://www.v2fy.com/p/2020-10-08-chinesebqb)

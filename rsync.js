@@ -70,10 +70,11 @@ async function check_copyright(md_file_path_name, md_file_name) {
 
   let md_file_content = fse.readFileSync(md_file_path_name);
 
+  // 移除.md
+
+  md_file_name = md_file_name.substring(0,md_file_name.indexOf("."));
 
   let article_url = `https://www.v2fy.com/p/${md_file_name}`;
-
-
 
 
 

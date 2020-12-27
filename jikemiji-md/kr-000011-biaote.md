@@ -43,6 +43,8 @@ https://www.ptt.cc/man/Beauty/index.html
 
 https://zhaooolee.cowtransfer.com/s/50681645934b41
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/kr-000011-biaote.md](https://www.v2fy.com/p/kr-000011-biaote.md)
+[https://www.v2fy.com/p/kr-000011-biaote](https://www.v2fy.com/p/kr-000011-biaote)

@@ -979,6 +979,4 @@
 关注公众号「0加1」可以收到文章更新推送
 
 ![公众号「0加1」](https://www.v2fy.com/asset/0i/ChromeAppHeroes/page/072_one_note_web_clipper.assets/jikemiji.png)
-## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/000readme-jikemiji.md](https://www.v2fy.com/p/000readme-jikemiji.md)

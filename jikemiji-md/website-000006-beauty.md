@@ -52,6 +52,8 @@ https://github.com/zhaoolee/ptt_beauty_spider/blob/master/index.js
 由于蓝奏云的单文件不得超过100M, 所以我对4000张图片进行了分卷压缩，下载所有文件后，移除.zip后缀，然后全选文件，使用7-zip将所有分卷解压到一个文件夹就可以了
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/website-000006-beauty.md](https://www.v2fy.com/p/website-000006-beauty.md)
+[https://www.v2fy.com/p/website-000006-beauty](https://www.v2fy.com/p/website-000006-beauty)

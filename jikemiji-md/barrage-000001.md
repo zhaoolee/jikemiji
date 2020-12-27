@@ -91,6 +91,8 @@ lv布lv奉先
 ![](https://www.v2fy.com/asset/barrage-000001/yabatun.png)
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/barrage-000001.md](https://www.v2fy.com/p/barrage-000001.md)
+[https://www.v2fy.com/p/barrage-000001](https://www.v2fy.com/p/barrage-000001)

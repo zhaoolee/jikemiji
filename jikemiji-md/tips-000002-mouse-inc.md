@@ -32,6 +32,8 @@ title:  《MouseInc》Windows如何优雅实时显示键盘按键
 
 
 MouseInc下载地址： https://www.lanzous.com/iahyluh
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/tips-000002-mouse-inc.md](https://www.v2fy.com/p/tips-000002-mouse-inc.md)
+[https://www.v2fy.com/p/tips-000002-mouse-inc](https://www.v2fy.com/p/tips-000002-mouse-inc)

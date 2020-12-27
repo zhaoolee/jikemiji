@@ -43,6 +43,8 @@ slmgr /skms kms.v0v.bid && slmgr /ato
 ## 最后提供一个最新的软件包
 
 在公众号**0加1**后台回复**win**, 可以获得「Win10数字激活』软件包蓝奏云高速下载链接
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000020-active-windows.md](https://www.v2fy.com/p/soft-000020-active-windows.md)
+[https://www.v2fy.com/p/soft-000020-active-windows](https://www.v2fy.com/p/soft-000020-active-windows)

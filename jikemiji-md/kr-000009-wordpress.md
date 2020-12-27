@@ -124,6 +124,8 @@ https://analytics.google.com/analytics/web/
 **当前建独立网站，是为了解决未来的问题**，阅文集团开了个好头，其它平台加强对内容创作者的剥削，也不会太遥远，**我相信技术向善，独立网站让内容传播更自由，让互联网真正造福人类**
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/kr-000009-wordpress.md](https://www.v2fy.com/p/kr-000009-wordpress.md)
+[https://www.v2fy.com/p/kr-000009-wordpress](https://www.v2fy.com/p/kr-000009-wordpress)

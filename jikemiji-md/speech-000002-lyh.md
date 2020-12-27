@@ -87,6 +87,8 @@ TNT就是个傻逼!
 这是耻辱柱的耻辱!
 
 >  自从耻辱柱用了TNT, 耻辱柱第二天嗓子哑的说不话了
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/speech-000002-lyh.md](https://www.v2fy.com/p/speech-000002-lyh.md)
+[https://www.v2fy.com/p/speech-000002-lyh](https://www.v2fy.com/p/speech-000002-lyh)

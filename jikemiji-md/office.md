@@ -546,6 +546,8 @@ smallpdf.com 是目前最好用的在线pdf处理工具，
 ---
 
 [阅读原文](https://v2fy.com/p/office/)： [https://v2fy.com/p/office/](https://v2fy.com/p/office/)
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/office.md](https://www.v2fy.com/p/office.md)
+[https://www.v2fy.com/p/office](https://www.v2fy.com/p/office)

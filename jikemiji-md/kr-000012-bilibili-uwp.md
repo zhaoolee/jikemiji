@@ -34,6 +34,8 @@ B站总有一些很神奇的操作，让一些无法在大陆上映的影片，�
 如果你依然喜欢使用浏览器观看，请使用油猴脚本，**油猴脚本使用教程**
 
 https://www.v2fy.com/p/016_jie_chu_b_zhan_qu_yu_xian_zhi/
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/kr-000012-bilibili-uwp.md](https://www.v2fy.com/p/kr-000012-bilibili-uwp.md)
+[https://www.v2fy.com/p/kr-000012-bilibili-uwp](https://www.v2fy.com/p/kr-000012-bilibili-uwp)

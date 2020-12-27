@@ -23,6 +23,8 @@ title:  《小丸工具箱》将1GB视频无损压缩到100MB
 
 
 在公众号**0加1**后台回复**xw**, 可以获得「小丸工具箱」绿色版蓝奏云高速下载链接
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000016-xiaowan.md](https://www.v2fy.com/p/soft-000016-xiaowan.md)
+[https://www.v2fy.com/p/soft-000016-xiaowan](https://www.v2fy.com/p/soft-000016-xiaowan)

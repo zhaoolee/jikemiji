@@ -17,6 +17,8 @@ title: 《优秀软件》一键批量下载蓝奏云43个文件
 ![](https://www.v2fy.com/asset/lanzou_download/finish.png)
 
 文中蓝奏云客户端下载地址: https://www.lanzous.com/b00nf5uqf
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000005-lanzou-download.md](https://www.v2fy.com/p/soft-000005-lanzou-download.md)
+[https://www.v2fy.com/p/soft-000005-lanzou-download](https://www.v2fy.com/p/soft-000005-lanzou-download)

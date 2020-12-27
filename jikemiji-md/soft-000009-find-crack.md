@@ -69,6 +69,8 @@ IDM是目前Windows平台风评最好的下载软件： 官网售价 24.95美元
 如果你对以上三个软件包感兴趣，可以在公众号**0加1**回复**cui**获取蓝奏云下载链接
 
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000009-find-crack.md](https://www.v2fy.com/p/soft-000009-find-crack.md)
+[https://www.v2fy.com/p/soft-000009-find-crack](https://www.v2fy.com/p/soft-000009-find-crack)

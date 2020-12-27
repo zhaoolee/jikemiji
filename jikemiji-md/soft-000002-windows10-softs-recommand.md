@@ -99,6 +99,8 @@ zhaoolee今天装了一台Windows10，发现在互联网如此发达的今天，
 
 本期好看超过10，一天以内放出所有软件安装包
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000002-windows10-softs-recommand.md](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand.md)
+[https://www.v2fy.com/p/soft-000002-windows10-softs-recommand](https://www.v2fy.com/p/soft-000002-windows10-softs-recommand)

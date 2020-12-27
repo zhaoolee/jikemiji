@@ -35,6 +35,8 @@ title:  《MyFinder》将Windows美化为macOS
 
 
 在公众号**0加1**后台回复**wm**, 可以获得「将Windows10美化为MacOS的软件包」蓝奏云高速下载链接
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/soft-000019-wmac.md](https://www.v2fy.com/p/soft-000019-wmac.md)
+[https://www.v2fy.com/p/soft-000019-wmac](https://www.v2fy.com/p/soft-000019-wmac)

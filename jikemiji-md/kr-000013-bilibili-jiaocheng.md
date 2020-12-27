@@ -62,6 +62,8 @@ https://www.bilibili.com/video/BV1XJ411x7yz
 #### 直达链接：
 
 https://www.bilibili.com/video/BV13W411n71y?t=17
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/kr-000013-bilibili-jiaocheng.md](https://www.v2fy.com/p/kr-000013-bilibili-jiaocheng.md)
+[https://www.v2fy.com/p/kr-000013-bilibili-jiaocheng](https://www.v2fy.com/p/kr-000013-bilibili-jiaocheng)

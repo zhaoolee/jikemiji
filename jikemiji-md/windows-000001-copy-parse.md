@@ -37,6 +37,8 @@ title: Win001《Windows实用技巧》如何让Windows复制粘贴更好用
 
 windows资源管理器自带了批量复制文件路径的功能, 在记事本中,将路径替换为空字符串就可以实现批量复制文件名
 
+
+
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
-[https://www.v2fy.com/p/windows-000001-copy-parse.md](https://www.v2fy.com/p/windows-000001-copy-parse.md)
+[https://www.v2fy.com/p/windows-000001-copy-parse](https://www.v2fy.com/p/windows-000001-copy-parse)
