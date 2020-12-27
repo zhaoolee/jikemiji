@@ -238,6 +238,9 @@
 [《思维导图》Mysql常用查询语法](https://www.v2fy.com/p/2020-12-26-mysql-map-1609032876000/)
 
 
+[Python交互数据库（Mysql | Mongodb | Redis）](https://www.v2fy.com/p/2020-12-26-mysql-mongodb-redis-1609041410000/)
+
+
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
