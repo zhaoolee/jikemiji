@@ -265,6 +265,9 @@
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
+[好玩的网站“彩蛋”们（程序员视角）...](https://www.v2fy.com/p/2020-12-26-programmer-1609043469000/)
+
+
 [详解Python3调用C程序](https://www.v2fy.com/p/2020-12-26-python-c-1609033099000/)
 
 
