@@ -286,6 +286,9 @@
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
 
 
+[Python使用getpass库读取密码](https://www.v2fy.com/p/2020-12-26-python-getpass-1609045370000/)
+
+
 [这可能是最好玩的python GUI入门实例!](https://www.v2fy.com/p/2020-12-26-python-gui-1609042801000/)
 
 
