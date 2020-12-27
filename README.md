@@ -244,6 +244,9 @@
 [详解Python3调用C程序](https://www.v2fy.com/p/2020-12-26-python-c-1609033099000/)
 
 
+[《递归》汉诺塔 | 斐波那契数列 | 阶乘 （附python实现源码）](https://www.v2fy.com/p/2020-12-26-python-fibonacci-1609040914000/)
+
+
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
 
 
