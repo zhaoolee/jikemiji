@@ -229,6 +229,9 @@
 [如何实现Node.js在终端获取用户输入](https://www.v2fy.com/p/2020-12-26-nodejs-terminal-input-1608978315000/)
 
 
+[详解Python3调用C程序](https://www.v2fy.com/p/2020-12-26-python-c-1609033099000/)
+
+
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
 
 
