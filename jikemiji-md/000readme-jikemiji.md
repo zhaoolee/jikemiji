@@ -268,6 +268,9 @@
 [Python3中的进程/线程/协程](https://www.v2fy.com/p/2020-12-26-python-process-1608997245000/)
 
 
+[Python脚本批量修改文件名](https://www.v2fy.com/p/2020-12-26-python-rename-1609041891000/)
+
+
 [Python3简单实现多任务(线程/协程篇)](https://www.v2fy.com/p/2020-12-26-python-thread-1608997988000/)
 
 
