@@ -394,6 +394,9 @@
 [推荐好玩一些的GitHub项目](https://www.v2fy.com/p/2020-12-27-github-recommend-1609059908000/)
 
 
+[使用HHKB键盘有什么优势？为什么程序员喜欢HHKB键盘?](https://www.v2fy.com/p/2020-12-27-hhkb/)
+
+
 [如何理解计算机中的神经网络？](https://www.v2fy.com/p/2020-12-27-input-out-1609058700000/)
 
 

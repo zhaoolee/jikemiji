@@ -65,6 +65,44 @@ async function update_data() {
   }).then(() => { });
 }
 
+// 检测尾部出处
+async function check_copyright(md_file_path_name, md_file_name) {
+
+  let md_file_content = fse.readFileSync(md_file_path_name);
+
+
+  let article_url = `https://www.v2fy.com/p/${md_file_name}`;
+
+
+
+
+
+
+  let copyright_info =`
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[${encodeURI(article_url)}](${encodeURI(article_url)})
+`;
+
+
+  // 如果存在url, 什么都不用干
+  if(md_file_content.indexOf(article_url) >=0){
+
+
+  }else{
+
+    md_file_content = md_file_content+copyright_info;
+
+
+    
+    fse.writeFileSync(md_file_path_name, md_file_content);
+    console.log("添加底部信息成功")
+
+    
+  }
+}
+
+
 // 获取md文件
 
 async function get_md_file_list() {
@@ -93,7 +131,16 @@ async function get_md_file_list() {
   console.log(src_file_list);
   for (let i = 0, src_file_list_length = src_file_list.length; i < src_file_list_length; i++) {
     console.log(src_file_list[i]["name"]);
-    fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]), { overwrite: true })
+    // 对于文中不包含文章链接的md,需要在尾部添加出处
+    if(src_file_list[i]["name"].endsWith(".md")){
+      await check_copyright(path.join(__dirname, need_update_article, src_file_list[i]["name"]), src_file_list[i]["name"]);
+    }
+    
+    if(src_file_list[i]["name"] !== ".gitkeep"){
+      fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]), { overwrite: true })
+    }
+
+    
   }
   // 执行同步数据工作
 
