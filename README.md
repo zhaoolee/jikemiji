@@ -271,6 +271,9 @@
 [好玩的网站“彩蛋”们（程序员视角）...](https://www.v2fy.com/p/2020-12-26-programmer-1609043469000/)
 
 
+[将Python程序(.py)转换为Windows可执行文件(.exe)](https://www.v2fy.com/p/2020-12-26-py-to-exe-1609044172000/)
+
+
 [详解Python3调用C程序](https://www.v2fy.com/p/2020-12-26-python-c-1609033099000/)
 
 
