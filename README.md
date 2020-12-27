@@ -268,6 +268,9 @@
 [使用Python创建跨平台的fork()炸弹](https://www.v2fy.com/p/2020-12-26-python-fork-1608993833000/)
 
 
+[这可能是最好玩的python GUI入门实例!](https://www.v2fy.com/p/2020-12-26-python-gui-1609042801000/)
+
+
 [<开发技巧>Python模块性能测试](https://www.v2fy.com/p/2020-12-26-python-insert-1609037946000/)
 
 
