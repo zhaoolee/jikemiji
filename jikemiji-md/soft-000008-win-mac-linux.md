@@ -175,3 +175,6 @@ Photopea是一个在线版的图片编辑器, 与Photoshop的界面非常相似,
 
 
 「几里」在线工具秘籍VI由「老罗巴扎嘿」提供设计 
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000008-win-mac-linux.md](https://www.v2fy.com/p/soft-000008-win-mac-linux.md)

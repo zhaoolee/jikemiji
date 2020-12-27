@@ -433,3 +433,7 @@ https://www.bilibili.com/bangumi/play/ss357
 
 https://www.bilibili.com/bangumi/play/ep317925
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/kr-000006-bilibili.md](https://www.v2fy.com/p/kr-000006-bilibili.md)

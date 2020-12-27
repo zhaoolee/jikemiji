@@ -98,3 +98,6 @@ title: 《优秀软件》Windows免费好用软件推荐(第二期)
 
 
 公众号**0加1**后台回复 **BandiCam** 即可获得 专业录屏软件《ＢandiCam》
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000004-windows10-softs-recommand.md](https://www.v2fy.com/p/soft-000004-windows10-softs-recommand.md)

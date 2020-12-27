@@ -343,3 +343,7 @@ systemctl restart php-fpm
 ```
 
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/tips-000003-nginx-wordpress.md](https://www.v2fy.com/p/tips-000003-nginx-wordpress.md)

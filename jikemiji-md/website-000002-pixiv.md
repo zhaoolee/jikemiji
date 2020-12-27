@@ -203,3 +203,7 @@ init();
 ```
 
 在公众号**0加1** 后台回复 **pixiv月度最佳插画**, 即可获取pixiv本月度 230 张优质超清插画
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/website-000002-pixiv.md](https://www.v2fy.com/p/website-000002-pixiv.md)

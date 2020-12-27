@@ -46,3 +46,6 @@ youtube-dl  https://www.youtube.com/channel/UC27M3BS9uxhJfPjYYys7y8w/videos
 
 
 [https://zhaooolee.cowtransfer.com/s/e2894ee4159843](https://zhaooolee.cowtransfer.com/s/e2894ee4159843)
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/2020-10-24-youtube-dl.md](https://www.v2fy.com/p/2020-10-24-youtube-dl.md)

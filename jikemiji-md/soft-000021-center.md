@@ -62,3 +62,7 @@ macOS底部为居中的设计, 而且自带毛玻璃效果, 非常漂亮
 
 
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000021-center.md](https://www.v2fy.com/p/soft-000021-center.md)

@@ -174,3 +174,7 @@ https://www.bilibili.com/bangumi/play/ss33290/
 **不收费的链接**
 
 http://www.yhdm.tv/v/4724-1.html
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/kr-000007-akuya.md](https://www.v2fy.com/p/kr-000007-akuya.md)

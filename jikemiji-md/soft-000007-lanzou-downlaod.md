@@ -43,3 +43,7 @@ https://www.lanzous.com/b00nfsnej
 
 
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000007-lanzou-downlaod.md](https://www.v2fy.com/p/soft-000007-lanzou-downlaod.md)

@@ -169,3 +169,7 @@ call show_func_and_proc();
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
 [https://www.v2fy.com/p/2020-12-26-mysql-function-procedure-1609033847000](https://www.v2fy.com/p/2020-12-26-mysql-function-procedure-1609033847000)
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/2020-12-26-mysql-function-procedure-1609033847000.md](https://www.v2fy.com/p/2020-12-26-mysql-function-procedure-1609033847000.md)

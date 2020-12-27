@@ -38,3 +38,7 @@ title: 《资源》获取网易云音乐超清专辑封面
 在浏览器中，打开上一步获得的url，并将获得的图片，保存到桌面，完成！
 
 ![](https://www.v2fy.com/asset/net-music-pic/005.png)
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/website-000004-music-pic.md](https://www.v2fy.com/p/website-000004-music-pic.md)

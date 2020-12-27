@@ -208,3 +208,7 @@ William Shakespeare_ The Complete Works 2nd Edition - William Shakespeare.mobi
 
 #### 公众号 `0加1` 后台回复 `电子书` 获得下载链接
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/2020-10-30-dianzishu.md](https://www.v2fy.com/p/2020-10-30-dianzishu.md)

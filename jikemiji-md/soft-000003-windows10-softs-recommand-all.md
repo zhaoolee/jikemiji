@@ -11,3 +11,7 @@ title: 《优秀软件》Windows免费好用软件推荐(第一期)完整软件�
 链接:https://pan.baidu.com/s/18kXkO6WLFlHSBPGDlVSGKw  密码:vybh
 
 ![](https://www.v2fy.com/asset/soft-000003-windows10-softs-recommand-all/9.png)
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000003-windows10-softs-recommand-all.md](https://www.v2fy.com/p/soft-000003-windows10-softs-recommand-all.md)

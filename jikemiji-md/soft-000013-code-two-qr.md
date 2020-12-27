@@ -59,3 +59,7 @@ title:  《还是吃太饱》你见过哪些沙雕二维码？
 
 
 公众号**0加1**后台回复**qr**, 即可获得 截图解码小工具 的蓝奏云下载链接
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/soft-000013-code-two-qr.md](https://www.v2fy.com/p/soft-000013-code-two-qr.md)

@@ -107,3 +107,7 @@ https://www.bilibili.com/bangumi/play/ep259772
 https://www.bilibili.com/bangumi/play/ep259770
 
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/kr-000004-huiye.md](https://www.v2fy.com/p/kr-000004-huiye.md)

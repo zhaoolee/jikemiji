@@ -115,3 +115,6 @@ Typora免费下载地址： https://typora.io/#download
 我搜索**谷粒**关键词
 ![](https://www.v2fy.com/asset/kr008/kr008guli.png)
 GitHub的权重比百度百科还要要高, 这也是我不想把捐赠者名字移出README.md的原因~
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/kr-000008-markdown-content.md](https://www.v2fy.com/p/kr-000008-markdown-content.md)

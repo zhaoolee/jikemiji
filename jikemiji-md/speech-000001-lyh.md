@@ -118,3 +118,7 @@ title: 《PPT》罗永浩演讲有趣的PPT
 
 
 
+
+## 本文永久更新地址(欢迎来读留言,写评论):
+
+[https://www.v2fy.com/p/speech-000001-lyh.md](https://www.v2fy.com/p/speech-000001-lyh.md)
