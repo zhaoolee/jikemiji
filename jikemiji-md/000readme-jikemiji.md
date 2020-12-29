@@ -448,6 +448,9 @@
 [今天又可以dadidadadididida了! 进击的巨人第四集更新地址](https://www.v2fy.com/p/2020-12-28--1609117963000/)
 
 
+[在Ubuntu20.04搭建WordPress开发环境](https://www.v2fy.com/p/2020-12-29-xmapp-1609203230000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
