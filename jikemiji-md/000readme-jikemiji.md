@@ -451,6 +451,9 @@
 [在Ubuntu20.04搭建WordPress开发环境](https://www.v2fy.com/p/2020-12-29-xmapp-1609203230000/)
 
 
+[如何从网页下载视频？来试试大学生最喜欢的浏览器！](https://www.v2fy.com/p/2020-12-30-xingyuan-1609331643000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
