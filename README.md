@@ -460,6 +460,9 @@
 [如何评价2021年的B站跨年晚会](https://www.v2fy.com/p/2021-01-01-bilibili-2020-1609508473000/)
 
 
+[元旦在家写代码，我完成了一个Markdown利器Typora私有化图床工具~ Windows, macOS，Linux均可运行](https://www.v2fy.com/p/2021-01-02-EasyTypora-1609587043000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
