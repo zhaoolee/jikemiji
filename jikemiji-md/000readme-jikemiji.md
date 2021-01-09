@@ -484,6 +484,12 @@
 [《超级右键》Mac右键新建Word，Excel，PPT，Markdown，右键拷贝当前路径,右键从当前路径进入终端](https://www.v2fy.com/p/2021-01-08-iright-1610093828000/)
 
 
+[如何在Win10中运行Win7小游戏 扫雷，蜘蛛纸牌，红心大战，纸牌，空当接龙？](https://www.v2fy.com/p/2021-01-09-win7-game-1610200060000/)
+
+
+[仙剑奇侠传6辅助器](https://www.v2fy.com/p/2021-01-09-xianjian-1610201279000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
