@@ -493,6 +493,9 @@
 [我写了一个开源工具, 让Github的README.md可以正常显示超大图片](https://www.v2fy.com/p/2021-01-10-readme-img-1610277736000/)
 
 
+[《办公技巧》用PhotoShop为GIF图添加文字注释](https://www.v2fy.com/p/2021-01-11-ps-txt-1610357853000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
