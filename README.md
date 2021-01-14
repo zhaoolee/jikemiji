@@ -496,6 +496,12 @@
 [《办公技巧》用PhotoShop为GIF图添加文字注释](https://www.v2fy.com/p/2021-01-11-ps-txt-1610357853000/)
 
 
+[编程是手段，不是出路](https://www.v2fy.com/p/2021-01-14-programmer-1610619334000/)
+
+
+[《荒野之息》 重新定义开放世界的真谛](https://www.v2fy.com/p/2021-01-14-zelda-1610619263000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
