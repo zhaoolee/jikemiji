@@ -502,6 +502,9 @@
 [《荒野之息》 重新定义开放世界的真谛](https://www.v2fy.com/p/2021-01-14-zelda-1610619263000/)
 
 
+[记一次买Xbox手柄的经历](https://www.v2fy.com/p/2021-01-15-xbox-series-1610673475000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
