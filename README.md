@@ -508,6 +508,9 @@
 [记一次买Xbox手柄的经历](https://www.v2fy.com/p/2021-01-15-xbox-series-1610673475000/)
 
 
+[最新最好用的Windows搜索工具Everything_v1.4.1.1004单文件版](https://www.v2fy.com/p/2021-01-21--1611197628000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
