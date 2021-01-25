@@ -514,6 +514,9 @@
 [安卓微信 8.0 抢先体验内测版地址（附隐藏封面玩法）乌合麒麟的新作《命令与征服》2CD资源](https://www.v2fy.com/p/2021-01-22-mingling-1611280589000/)
 
 
+[安卓手机版全功能Adobe Photoshop离线安装包](https://www.v2fy.com/p/2021-01-25-adobe-photoshop-1611542427000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
