@@ -520,6 +520,9 @@
 [分享一个不足50MB的迷你CAD绿色软件包](https://www.v2fy.com/p/2021-01-30-cad-1611971022000/)
 
 
+[选择Deepin的八个理由](https://www.v2fy.com/p/2021-02-01-deepin-1612173778000/)
+
+
 [避免package.json软件包自动升级导致出错](https://www.v2fy.com/p/2021-02-01-npm-1612147613000/)
 
 
