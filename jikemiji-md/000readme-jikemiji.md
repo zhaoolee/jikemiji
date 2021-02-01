@@ -517,7 +517,10 @@
 [安卓手机版全功能Adobe Photoshop离线安装包](https://www.v2fy.com/p/2021-01-25-adobe-photoshop-1611542427000/)
 
 
-[cad](https://www.v2fy.com/p/2021-01-30-cad-1611971022000/)
+[分享一个不足50MB的迷你CAD绿色软件包](https://www.v2fy.com/p/2021-01-30-cad-1611971022000/)
+
+
+[避免package.json软件包自动升级导致出错](https://www.v2fy.com/p/2021-02-01-npm-1612147613000/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
