@@ -526,6 +526,9 @@
 [避免package.json软件包自动升级导致出错](https://www.v2fy.com/p/2021-02-01-npm-1612147613000/)
 
 
+[如何把Github星星玩到30k?（其一）](https://www.v2fy.com/p/2021-02-03-chrome-app-heroes-article-001-1612348231000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
