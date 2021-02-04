@@ -529,6 +529,9 @@
 [如何把Github星星玩到30k?（其一）](https://www.v2fy.com/p/2021-02-03-chrome-app-heroes-article-001-1612348231000/)
 
 
+[《酷狗概念版》一流简洁界面设计，免费听周杰伦的歌（附离线安装包）](https://www.v2fy.com/p/2021-02-04-kugou-1612421020000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
