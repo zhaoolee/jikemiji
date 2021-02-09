@@ -541,6 +541,9 @@
 [将树莓派3B刷成OpenWrt软路由，成为魔法WiFi上网的强大路由器](https://www.v2fy.com/p/2021-02-06-pi3-1612603909000/)
 
 
+[如何在全平台Windows Mac Linux中使用7z压缩解压？](https://www.v2fy.com/p/2021-02-09-p7zip-1612840652000/)
+
+
 [如何恢复Windows自动更新?](https://www.v2fy.com/p/2021-02-09-winupdate-1612838519000/)
 
 
