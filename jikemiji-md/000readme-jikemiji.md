@@ -550,6 +550,9 @@
 [如何恢复Windows自动更新?](https://www.v2fy.com/p/2021-02-09-winupdate-1612838519000/)
 
 
+[在WSL终端中使用Windows打开文件夹，打开文件](https://www.v2fy.com/p/2021-02-09-wsl-open-dir-1612881720000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
