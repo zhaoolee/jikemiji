@@ -535,7 +535,14 @@
 [自建博客可能遇到的问题及解决方案](https://www.v2fy.com/p/2021-02-05--1612507547000/)
 
 
+<<<<<<< HEAD
 [如何恢复Windows自动更新?](https://www.v2fy.com/p/2021-02-09-winupdate-1612838519000/)
+=======
+[专业版OfficeSuite超好用的手机移动办公App](https://www.v2fy.com/p/2021-02-06-office-1612575348000/)
+
+
+[将树莓派3B刷成OpenWrt软路由，成为魔法WiFi上网的强大路由器](https://www.v2fy.com/p/2021-02-06-pi3-1612603909000/)
+>>>>>>> 571433bc957bf7476e0988c4692a0a4319bf0397
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
