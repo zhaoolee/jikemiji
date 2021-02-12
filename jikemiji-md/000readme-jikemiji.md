@@ -556,6 +556,9 @@
 [程序员福音！Win10下使用oh-my-zsh全攻略，让Win10开发更顺滑...](https://www.v2fy.com/p/2021-02-10-zsh-win-1612954923000/)
 
 
+[为Windows系统替换优雅的苹方好看的OPPO字体](https://www.v2fy.com/p/2021-02-12-pingfang-1613099846000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
