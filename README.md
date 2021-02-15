@@ -562,6 +562,9 @@
 [如何让Windows文件管理器滚动如macOS奶油般顺滑？](https://www.v2fy.com/p/2021-02-13-win-smooth-1613196399000/)
 
 
+[如何解决录音嗡嗡嗡？VoiceMeeter加OBS免费且强大的录音录像解决方案](https://www.v2fy.com/p/2021-02-15-obs-voicemeeter-1613380328000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
