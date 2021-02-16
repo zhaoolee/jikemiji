@@ -565,6 +565,9 @@
 [如何解决录音嗡嗡嗡？VoiceMeeter加OBS免费且强大的录音录像解决方案](https://www.v2fy.com/p/2021-02-15-obs-voicemeeter-1613380328000/)
 
 
+[快来领取哔哩哔哩官方壁纸（2021年02月16日更新）](https://www.v2fy.com/p/2021-02-16-bilibili-wallpage-1613447775000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
