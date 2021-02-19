@@ -547,6 +547,9 @@
 [如何恢复Windows自动更新?](https://www.v2fy.com/p/2021-02-09-winupdate-1612838519000/)
 
 
+[我搬运《Chrome插件英雄榜》到知乎专栏，被禁言1天，然后申诉，改判7天...](https://www.v2fy.com/p/2021-02-19-zhihu-1613703684000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
