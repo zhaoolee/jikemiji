@@ -541,13 +541,35 @@
 [将树莓派3B刷成OpenWrt软路由，成为魔法WiFi上网的强大路由器](https://www.v2fy.com/p/2021-02-06-pi3-1612603909000/)
 
 
+[查看Chrome下载的扩展程序位置](https://www.v2fy.com/p/2021-02-09-find-chrome-ex-1612874563000/)
+
+
 [如何在全平台Windows Mac Linux中使用7z压缩解压？](https://www.v2fy.com/p/2021-02-09-p7zip-1612840652000/)
 
 
 [如何恢复Windows自动更新?](https://www.v2fy.com/p/2021-02-09-winupdate-1612838519000/)
 
 
+<<<<<<< HEAD
 [我搬运《Chrome插件英雄榜》到知乎专栏，被禁言1天，然后申诉，改判7天...](https://www.v2fy.com/p/2021-02-19-zhihu-1613703684000/)
+=======
+[在WSL终端中使用Windows打开文件夹，打开文件](https://www.v2fy.com/p/2021-02-09-wsl-open-dir-1612881720000/)
+
+
+[程序员福音！Win10下使用oh-my-zsh全攻略，让Win10开发更顺滑...](https://www.v2fy.com/p/2021-02-10-zsh-win-1612954923000/)
+
+
+[为Windows系统替换优雅的苹方好看的OPPO字体](https://www.v2fy.com/p/2021-02-12-pingfang-1613099846000/)
+
+
+[如何让Windows文件管理器滚动如macOS奶油般顺滑？](https://www.v2fy.com/p/2021-02-13-win-smooth-1613196399000/)
+
+
+[如何解决录音嗡嗡嗡？VoiceMeeter加OBS免费且强大的录音录像解决方案](https://www.v2fy.com/p/2021-02-15-obs-voicemeeter-1613380328000/)
+
+
+[快来领取哔哩哔哩官方壁纸（2021年02月16日更新）](https://www.v2fy.com/p/2021-02-16-bilibili-wallpage-1613447775000/)
+>>>>>>> 9a4cda437c99fdb5adc9b71de975949d198881a9
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
