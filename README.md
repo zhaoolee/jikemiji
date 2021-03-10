@@ -586,6 +586,9 @@
 [如何优雅获取B站壁纸？](https://www.v2fy.com/p/2021-03-09-bilibili-paper-1615269784000/)
 
 
+[如何识别视频中的中文语音并导出标准srt字幕文件?](https://www.v2fy.com/p/2021-03-10-premiere-1615356371000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
