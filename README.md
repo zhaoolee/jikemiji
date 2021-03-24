@@ -589,6 +589,9 @@
 [如何识别视频中的中文语音并导出标准srt字幕文件?](https://www.v2fy.com/p/2021-03-10-premiere-1615356371000/)
 
 
+[将iPad折腾为台式机的调色扩展屏幕](https://www.v2fy.com/p/2021-03-24-ipad-power-1616550808000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
