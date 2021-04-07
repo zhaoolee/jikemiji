@@ -592,6 +592,9 @@
 [将iPad折腾为台式机的调色扩展屏幕](https://www.v2fy.com/p/2021-03-24-ipad-power-1616550808000/)
 
 
+[绕开登录限制,私有化部署Markdown转公众号格式神器mdnice教程](https://www.v2fy.com/p/2021-04-07-mdnice-1617764430000/)
+
+
 [Linux命令行新建自带年月日时分秒时间戳的markdown文件名](https://www.v2fy.com/p/2021-04-07-touch-markdown-file-1617758150000/)
 
 
