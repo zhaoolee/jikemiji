@@ -601,6 +601,9 @@
 [《zhaoolee的宝藏周刊》第1期](https://www.v2fy.com/p/2021-04-12-weekly-1-1618189418000/)
 
 
+[为什么要写周刊以及写周刊需要考虑的问题](https://www.v2fy.com/p/2021-04-12-weekly-1618198340000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
