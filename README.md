@@ -598,6 +598,9 @@
 [Linux命令行新建自带年月日时分秒时间戳的markdown文件名](https://www.v2fy.com/p/2021-04-07-touch-markdown-file-1617758150000/)
 
 
+[《zhaoolee的宝藏周刊》第1期](https://www.v2fy.com/p/2021-04-12-weekly-1-1618189418000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
