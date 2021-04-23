@@ -613,6 +613,9 @@
 [安装运行《传奇》单机绿色珍藏版](https://www.v2fy.com/p/2021-04-22-chuanqi-1619091883000/)
 
 
+[Windows魂斗罗合集（12个版本） 免安装解压即玩下载地址](https://www.v2fy.com/p/2021-04-23-contra-1619175101000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
