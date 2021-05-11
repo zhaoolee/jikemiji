@@ -622,6 +622,9 @@
 [用明基99%AdobeRGB的屏幕修一加8拍摄的夜景图片](https://www.v2fy.com/p/2021-05-05-benq-1620222216000/)
 
 
+[PhotoShop2021免激活学习绿色版](https://www.v2fy.com/p/2021-05-11-ps2021-1620712275000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
