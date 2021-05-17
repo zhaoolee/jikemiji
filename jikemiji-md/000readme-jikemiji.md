@@ -625,6 +625,9 @@
 [PhotoShop2021免激活学习绿色版](https://www.v2fy.com/p/2021-05-11-ps2021-1620712275000/)
 
 
+[解锁Kindle电子书的加密格式](https://www.v2fy.com/p/2021-05-17-kindle-1621237478000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
