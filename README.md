@@ -541,7 +541,7 @@
 [将树莓派3B刷成OpenWrt软路由，成为魔法WiFi上网的强大路由器](https://www.v2fy.com/p/2021-02-06-pi3-1612603909000/)
 
 
-[查看Chrome下载的扩展程序位置](https://www.v2fy.com/p/2021-02-09-find-chrome-ex-1612874563000/)
+[查看本地Chrome扩展程序位置](https://www.v2fy.com/p/2021-02-09-find-chrome-ex-1612874563000/)
 
 
 [如何在全平台Windows Mac Linux中使用7z压缩解压？](https://www.v2fy.com/p/2021-02-09-p7zip-1612840652000/)
