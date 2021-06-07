@@ -643,6 +643,9 @@
 [想把Github当网盘? 解决github资源下载速度慢的问题](https://www.v2fy.com/p/2021-06-06-github-download-1622963380000/)
 
 
+[为国内WordPress主机配置代理,解决从插件商店下载插件失败,无法验证Google官方插件Site Kit的问题](https://www.v2fy.com/p/2021-06-07-wordpress-clash-1623028274000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
