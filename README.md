@@ -646,6 +646,9 @@
 [为国内WordPress主机配置代理,解决从插件商店下载插件失败,无法验证Google官方插件Site Kit的问题](https://www.v2fy.com/p/2021-06-07-wordpress-clash-1623028274000/)
 
 
+[后代人的权利远比当代人的欲望更重要，零成本自建独立博客并分发到全平台的解决方案](https://www.v2fy.com/p/2021-06-09-md-1623205125000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
