@@ -655,6 +655,9 @@
 [Linux是信仰，Mac和Windows的Wsl都是好的Linux](https://www.v2fy.com/p/2021-06-10-linux-1623324902000/)
 
 
+[给热心老哥搭个窝，2021年30分钟用Discourse搭建新一代BBS论坛站全攻略](https://www.v2fy.com/p/2021-06-12-discourse-2021-1623477573000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
