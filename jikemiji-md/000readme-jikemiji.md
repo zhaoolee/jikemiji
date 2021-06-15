@@ -658,6 +658,9 @@
 [给热心老哥搭个窝，2021年30分钟用Discourse搭建新一代BBS论坛站全攻略](https://www.v2fy.com/p/2021-06-12-discourse-2021-1623477573000/)
 
 
+[《在路上》朋克青年的奇幻之旅](https://www.v2fy.com/p/2021-06-15-lushang-1623749810000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
