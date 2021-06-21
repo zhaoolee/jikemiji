@@ -661,6 +661,9 @@
 [《在路上》朋克青年的奇幻之旅](https://www.v2fy.com/p/2021-06-15-lushang-1623749810000/)
 
 
+[给热心老哥挪个窝,将BBS网站Discourse从海外主机完美迁移到国内云服务器, 实现国内主机同时运行WordPress和Discourse](https://www.v2fy.com/p/2021-06-21-discourse-1624274883000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
