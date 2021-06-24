@@ -664,6 +664,9 @@
 [给热心老哥挪个窝,将BBS网站Discourse从海外主机完美迁移到国内云服务器, 实现国内主机同时运行WordPress和Discourse](https://www.v2fy.com/p/2021-06-21-discourse-1624274883000/)
 
 
+[Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://www.v2fy.com/p/2021-06-24-office-1624527564000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
