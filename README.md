@@ -667,6 +667,9 @@
 [Windows专用Office Tool Plus 8.2.3.0 office部署工具一体zip包(含.net5)](https://www.v2fy.com/p/2021-06-24-office-1624527564000/)
 
 
+[零依赖!使用acme.sh设置nginx多个https证书自动更新，无限续期https证书](https://www.v2fy.com/p/2021-06-27-nginx-https-1624774964000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
