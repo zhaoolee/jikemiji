@@ -670,6 +670,9 @@
 [零依赖!使用acme.sh设置nginx多个https证书自动更新，无限续期https证书](https://www.v2fy.com/p/2021-06-27-nginx-https-1624774964000/)
 
 
+[终端alias语法快捷配置魔法上网](https://www.v2fy.com/p/2021-06-28-setp-unsetp-1624854751000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
