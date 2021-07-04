@@ -673,7 +673,11 @@
 [终端alias语法快捷配置魔法上网](https://www.v2fy.com/p/2021-06-28-setp-unsetp-1624854751000/)
 
 
+<<<<<<< HEAD
 [通过async程序配合私钥认证，机械硬盘加树莓派，对个人服务器进行低成本容灾](https://www.v2fy.com/p/2021-06-28-ssh-1624891495000/)
+=======
+[《Python3.9优雅起飞指南》Ubuntu20.04从源码安装python3.9.6并配置完成pip3和pipenv教程](https://www.v2fy.com/p/2021-06-30-python396-1625013887000/)
+>>>>>>> 29297054b283bcfc4b2b22daa4c8b42631067ab0
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
