@@ -682,6 +682,9 @@
 [为树莓派4B安装OpenWrt镜像打造普通wifi转魔法wifi的便携路由器](https://www.v2fy.com/p/2021-07-04-openwrt-4b-1625383754000/)
 
 
+[比坚果云更好用！无需上传！用frp内网穿透将当前桌面或图片文件夹实时分享到互联网](https://www.v2fy.com/p/2021-07-05-frp-1625488942000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
