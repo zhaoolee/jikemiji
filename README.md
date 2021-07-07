@@ -688,6 +688,9 @@
 [如何哄骗文艺青年安装Node.js? 将网易云音乐灰色歌曲变亮](https://www.v2fy.com/p/2021-07-06-neteasemusic-1625566291000/)
 
 
+[使用私人服务器,将网易云歌曲变亮,并分享给周围小伙伴](https://www.v2fy.com/p/2021-07-07-net-server-1625654857000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
