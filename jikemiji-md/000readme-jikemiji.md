@@ -703,6 +703,9 @@
 [Windows窗口置顶工具WinTop置顶重要窗口,压缩包仅300K](https://www.v2fy.com/p/2021-07-20-wintop-1626743825000/)
 
 
+[Ubuntu20.04试水k8s单机版minikube部署实录](https://www.v2fy.com/p/2021-07-26-k8s-1627292526000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
