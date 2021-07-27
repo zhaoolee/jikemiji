@@ -706,6 +706,9 @@
 [Ubuntu20.04试水k8s单机版minikube部署实录](https://www.v2fy.com/p/2021-07-26-k8s-1627292526000/)
 
 
+[如何下载Windows各版本纯净镜像? 附吾爱破解好评如潮的迅雷单文件版~](https://www.v2fy.com/p/2021-07-27-win-1627375107000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
