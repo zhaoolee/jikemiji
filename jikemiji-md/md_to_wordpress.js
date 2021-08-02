@@ -5,7 +5,6 @@ const fse = require("fs-extra");
 const showdown = require("showdown");
 const os = require('os');
 
-
 // 加分类
 let category_list = ["公众号「0加1」"];
 
