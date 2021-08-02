@@ -16,7 +16,7 @@ const md_dir_name = "jikemiji-md";
 
 // 需要排除的md文件
 
-const need_update_article = "need_update_article"
+const need_update_article = "jikemiji-md"
 
 const exclude_md_files = [];
 
@@ -123,9 +123,14 @@ async function get_md_file_list() {
     }
   });
 
+  // 获取需要同步的文章
+
+  // 如果不存在file_md5.json 则创建
+  
+
+
 
   fse.writeJsonSync(path.join(__dirname, "md_files.json"),{"md_files": all_md_files})
-
   // 将 need_update_aritcle中的所有文件移动到jikemiji-md
   let src_file_list = fse.readdirSync(path.join(__dirname, need_update_article), { withFileTypes: true });
   console.log(src_file_list);
@@ -137,9 +142,9 @@ async function get_md_file_list() {
       await check_copyright(path.join(__dirname, need_update_article, src_file_list[i]["name"]), src_file_list[i]["name"]);
     }
     
-    if(src_file_list[i]["name"] !== ".gitkeep"){
-      fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]), { overwrite: true })
-    }
+    // if(src_file_list[i]["name"] !== ".gitkeep"){
+    //   fse.moveSync(path.join(__dirname, need_update_article, src_file_list[i]["name"]), path.join(__dirname, md_dir_name, src_file_list[i]["name"]), { overwrite: true })
+    // }
 
     
   }
