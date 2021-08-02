@@ -4,10 +4,10 @@ const path = require("path");
 
 
 // 定义写入的目录
-const path_dir = path.join(__dirname, "need_update_article");
+const path_dir = path.join(__dirname, "jikemiji-md");
 
 
-let need_update_article = "need_update_article"
+let need_update_article = "jikemiji-md"
 
 process.stdin.setEncoding('utf8');
 

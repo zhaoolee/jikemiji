@@ -144,28 +144,29 @@ async function get_all_md_file_pathname() {
   // let all_files = fs.readdirSync(root);
   // 使用新的方式进行替换
 
-  let all_files = fse.readJSONSync(path.join(__dirname, "..", "md_files.json"))["md_files"];
+  let all_files = fse.readJSONSync(path.join(__dirname, "..", "md_file_md5.json"))["had_change_file"];
 
-  let all_md_files = [];
+  // let all_md_files = [];
 
-  // 排除列表
-  exclude_md_files = [];
-  // 获取md文件列表
-  all_files.map((file_name, file_index) => {
-    if (file_name.endsWith(".md")) {
-      // md文件不包含在排除列表中
-      if (exclude_md_files.indexOf(file_name) === -1) {
-        all_md_files.push(path.join(__dirname, file_name));
-      } else {
-        // 单独处理README.md
-      }
-    }
-  });
-  // console.log("all_md_files===>>>", all_md_files);
+  // // 排除列表
+  // exclude_md_files = [];
+  // // 获取md文件列表
+  // all_files.map((file_name, file_index) => {
+  //   if (file_name.endsWith(".md")) {
+  //     // md文件不包含在排除列表中
+  //     if (exclude_md_files.indexOf(file_name) === -1) {
+  //       all_md_files.push(path.join(__dirname, file_name));
+  //     } else {
+  //       // 单独处理README.md
+  //     }
+  //   }
+  // });
+  // // console.log("all_md_files===>>>", all_md_files);
 
-  all_md_file_pathname = all_md_files;
+  // all_md_file_pathname = all_md_files;
 
-  return all_md_file_pathname;
+  // return all_md_file_pathname;
+  return all_files;
 }
 
 // 4. 读取单个.md文件, 记录文件的文件名和标题和内容

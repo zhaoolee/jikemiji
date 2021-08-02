@@ -7,7 +7,6 @@ title: Win001《Windows实用技巧》如何让Windows复制粘贴更好用
 
 其实Windows提供了两套快捷键，上面的`Ctrl+c`（复制）和`Ctrl+v`（粘贴）是适用于左手的，而适用于右手的是`Ctrl+Insert`（复制）, `Shift+Insert`（粘贴）
 
-
 ![](https://www.v2fy.com/asset/windows-ctrl/ctrl-insert-shift-insert.png)
 
 右手的**复制/粘贴**有什么用途呢? 众所周知,在Windows终端中,是无法使用`Ctrl+v`快捷键,直接粘贴命令的, 而 `Shift+Insert`就可以直接粘贴命令

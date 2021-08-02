@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node rsync.js && node push.js",
     "new": "node new_article.js",
-    "push": "node rsync.js && node push.js && git add . && git commit -m 'ok' && git push"
+    "push": "node cal_md5.js && node rsync.js && node push.js && git add . && git commit -m 'ok' && git push"
   },
   "repository": {
     "type": "git",

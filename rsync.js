@@ -126,11 +126,11 @@ async function get_md_file_list() {
   // 获取需要同步的文章
 
   // 如果不存在file_md5.json 则创建
-  
 
 
 
-  fse.writeJsonSync(path.join(__dirname, "md_files.json"),{"md_files": all_md_files})
+
+  // fse.writeJsonSync(path.join(__dirname, "md_files.json"),{"md_files": all_md_files})
   // 将 need_update_aritcle中的所有文件移动到jikemiji-md
   let src_file_list = fse.readdirSync(path.join(__dirname, need_update_article), { withFileTypes: true });
   console.log(src_file_list);

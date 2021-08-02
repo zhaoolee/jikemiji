@@ -712,6 +712,9 @@
 [如何少刷微博知乎? Hacker News是很榜的英文新闻页,配合彩云小译可以获得好的阅读体验](https://www.v2fy.com/p/2021-07-30-hack-1627633989000/)
 
 
+[Node.js计算md5](https://www.v2fy.com/p/2021-08-02-md5-1627900802000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
