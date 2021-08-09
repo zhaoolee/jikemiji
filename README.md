@@ -733,6 +733,9 @@
 [在金融公司研发内部IT系统的一些经验](https://www.v2fy.com/p/2021-08-08-it-manager-1628427654000/)
 
 
+[最适合为Docker制作基础瘦身镜像的Linux发行版Alpine](https://www.v2fy.com/p/2021-08-09-alpine-1628495013000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
