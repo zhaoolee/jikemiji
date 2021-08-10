@@ -736,6 +736,12 @@
 [最适合为Docker制作基础瘦身镜像的Linux发行版Alpine](https://www.v2fy.com/p/2021-08-09-alpine-1628495013000/)
 
 
+[使用Docker快捷安装Gitlab社区版](https://www.v2fy.com/p/2021-08-10-gitlab-1628587945000/)
+
+
+[VirtualBox创建CentOS7虚拟机简洁教程](https://www.v2fy.com/p/2021-08-10-virtualbox-centos7-1628588525000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
