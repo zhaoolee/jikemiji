@@ -742,6 +742,9 @@
 [VirtualBox创建CentOS7虚拟机简洁教程](https://www.v2fy.com/p/2021-08-10-virtualbox-centos7-1628588525000/)
 
 
+[Windows直接挂载Linux服务器硬盘](https://www.v2fy.com/p/2021-08-12-sshfs-1628753439000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
