@@ -745,6 +745,9 @@
 [Windows直接挂载Linux服务器硬盘](https://www.v2fy.com/p/2021-08-12-sshfs-1628753439000/)
 
 
+[博主的目标是布道,自媒体的目标是赚钱](https://www.v2fy.com/p/2021-08-17-up-1629202481000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
