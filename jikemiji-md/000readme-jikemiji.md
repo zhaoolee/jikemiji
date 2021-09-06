@@ -754,6 +754,9 @@
 [如何高品质白嫖Github Actions？私人定制邮件简报近期优化报告](https://www.v2fy.com/p/2021-08-31-garss-design-1630399391000/)
 
 
+[什么是好的电子游戏?(其一)](https://www.v2fy.com/p/2021-09-06-game-1630926360000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
