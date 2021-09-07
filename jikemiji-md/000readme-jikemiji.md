@@ -757,6 +757,9 @@
 [什么是好的电子游戏?(其一)](https://www.v2fy.com/p/2021-09-06-game-1630926360000/)
 
 
+[私有化部署RSSHub全记录](https://www.v2fy.com/p/2021-09-07-rsshub-1631018903000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
