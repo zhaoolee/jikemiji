@@ -760,6 +760,9 @@
 [私有化部署RSSHub全记录](https://www.v2fy.com/p/2021-09-07-rsshub-1631018903000/)
 
 
+[Node.JS保证稳定上线前必备操作，依赖包锁定npm shrinkwrap](https://www.v2fy.com/p/2021-09-08-npm-shrinkwrap-1631069084000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
