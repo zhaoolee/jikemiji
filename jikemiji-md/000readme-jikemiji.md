@@ -763,6 +763,12 @@
 [Node.JS保证稳定上线前必备操作，依赖包锁定npm shrinkwrap](https://www.v2fy.com/p/2021-09-08-npm-shrinkwrap-1631069084000/)
 
 
+[国产独立游戏之光《风来之国》在Mac和Windows都能玩的买断制像素风小游戏](https://www.v2fy.com/p/2021-09-19-Eastward-1632034925000/)
+
+
+[2021年，iPhone一点都不酷](https://www.v2fy.com/p/2021-09-19-iPhone13-1632034861000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
