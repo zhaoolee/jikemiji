@@ -778,6 +778,9 @@
 [Windows 原生运行Linux如何自由访问互联网 WSL2 使用 Clash for Windows做代理](https://www.v2fy.com/p/2021-09-24-windows-clash-wsl2-1632440722000/)
 
 
+[迪迦奥特曼国语版下载](https://www.v2fy.com/p/2021-09-26-dijia-1632634228000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
