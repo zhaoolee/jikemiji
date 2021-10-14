@@ -799,6 +799,9 @@
 [超简单的树莓派SD卡扩容方案，将树莓派16GB闪存SD卡克隆到64GB闪存SD卡](https://www.v2fy.com/p/2021-10-09-pi-fdisk-1633793278000/)
 
 
+[树莓派对比PC的优势清单](https://www.v2fy.com/p/2021-10-14-pi-1634221155000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
