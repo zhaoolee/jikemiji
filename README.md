@@ -817,6 +817,9 @@
 [最近打算出一门与金融相关的编程课，邀请感兴趣的人来做试听，顺便提提建议](https://www.v2fy.com/p/2021-10-26-program-1635255662000/)
 
 
+[在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VsCode](https://www.v2fy.com/p/2021-10-27-node_js-1635325734000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
