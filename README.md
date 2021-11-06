@@ -820,6 +820,12 @@
 [001 在Windows,Mac，Linux中快速安装配置Node.js环境，并安装VSCode, 完成Web端恒生交易日接口的图形化展示](https://www.v2fy.com/p/2021-10-27-node_js-1635325734000/)
 
 
+[discouse-pi](https://www.v2fy.com/p/2021-11-05-discouse-pi-1636120009000/)
+
+
+[《树莓派4B家庭服务器搭建指南》第七期：使用树莓派解锁网易云灰色音乐，并通过公网分享给小伙伴](https://www.v2fy.com/p/2021-11-06-netmusic-pi-1636163886000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
