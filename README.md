@@ -829,6 +829,9 @@
 [《树莓派4B家庭服务器搭建指南》第八期：树莓派部署P2P文件同步服务程序syncthing全攻略](https://www.v2fy.com/p/2021-11-14-syncthing-1636866052000/)
 
 
+[MacBook Pro 14寸上手体验报告](https://www.v2fy.com/p/2021-11-24-macbook-1637764940000/)
+
+
 [为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://www.v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
 
