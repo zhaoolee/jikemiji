@@ -838,6 +838,9 @@
 [为Nginx优雅配置https证书, 完善私有化部署RSSHub](https://www.v2fy.com/p/2021-11-24-nginx-rsshub-1637763933000/)
 
 
+[《树莓派4B家庭服务器搭建指南》第九期：用树莓派低成本给热心老哥搭个窝，在树莓派建立BBS论坛flarum并映射到公网全攻略](https://www.v2fy.com/p/2021-11-26-flarum-1637921368000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
