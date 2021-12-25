@@ -859,7 +859,7 @@
 [《树莓派4B家庭服务器搭建指南》第十二期：降低BBS运营成本，将面向未来的BBS论坛程序Discourse部署到树莓派（私人BBS论坛一年运营成本300块！）](https://www.v2fy.com/p/2021-12-23-discourse-pi-1640269071000/)
 
 
-[《树莓派4B家庭服务器搭建指南》第十三期：在树莓派安装lazydocker命令行图形化界面快速管理Docker服务及镜像](https://www.v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
+[《树莓派4B家庭服务器搭建指南》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://www.v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
