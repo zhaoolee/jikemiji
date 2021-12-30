@@ -862,6 +862,9 @@
 [《树莓派4B家庭服务器搭建指南》第十三期：在树莓派安装Lazydocker命令行图形化界面快速管理Docker服务及镜像](https://www.v2fy.com/p/2021-12-25-lazydocker-1640429729000/)
 
 
+[hades](https://www.v2fy.com/p/2021-12-30-hades-1640831520000/)
+
+
 [入坑Switch的7个理由~](https://www.v2fy.com/p/2021-12-30-switch-1640831292000/)
 
 
