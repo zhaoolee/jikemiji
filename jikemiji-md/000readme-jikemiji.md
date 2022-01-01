@@ -868,6 +868,9 @@
 [入坑Switch的7个理由~](https://www.v2fy.com/p/2021-12-30-switch-1640831292000/)
 
 
+[为Ubuntu 20.04 设置静态IP简明教程（和把大象装冰箱一样简单）](https://www.v2fy.com/p/2022-01-01-ip-1641016585000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
