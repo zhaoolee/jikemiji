@@ -877,6 +877,9 @@
 [《树莓派4B家庭服务器搭建指南》第十四期：使用树莓派4B搭建k8s集群](https://www.v2fy.com/p/2022-01-05-k8s-pi-1641393748000/)
 
 
+[树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://www.v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
