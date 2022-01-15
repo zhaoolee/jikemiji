@@ -17,8 +17,6 @@ up.js
 
 /node_modules/
 
-.DS_Store
-
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`

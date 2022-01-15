@@ -883,6 +883,9 @@
 [前端工程必备CSS重置代码](https://www.v2fy.com/p/2022-01-15-css-1642225628000/)
 
 
+[在macOS系统 Git排除.Ds_Store文件一劳永逸的配置方式](https://www.v2fy.com/p/2022-01-15-eradicating-ds-store-1642230514000/)
+
+
 [旷野之息海拉鲁摄影无损画质版](https://www.v2fy.com/p/2022-01-15-photo-breath-of-the-wild-1642225407000/)
 
 
