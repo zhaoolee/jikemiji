@@ -880,6 +880,9 @@
 [树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://www.v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
 
+[旷野之息海拉鲁摄影无损画质版](https://www.v2fy.com/p/2022-01-15-photo-breath-of-the-wild-1642225407000/)
+
+
 [数学教授为什么仍然使用粉笔？博主为什么仍然使用图文？](https://www.v2fy.com/p/2022-01-15-text-power-1642224676000/)
 
 
