@@ -880,6 +880,9 @@
 [树莓派自建私有化Docker仓库, 并配置公网访问用户认证](https://www.v2fy.com/p/2022-01-08-docker-registry-1641648899000/)
 
 
+[数学教授为什么仍然使用粉笔？博主为什么仍然使用图文？](https://www.v2fy.com/p/2022-01-15-text-power-1642224676000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
