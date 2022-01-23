@@ -892,6 +892,12 @@
 [数学教授为什么仍然使用粉笔？博主为什么仍然使用图文？](https://www.v2fy.com/p/2022-01-15-text-power-1642224676000/)
 
 
+[动视暴雪：那么，微软，代价是什么？](https://www.v2fy.com/p/2022-01-23-mic-1642914901000/)
+
+
+[替代TeamViewer！国产春节远程办公免费工具ToDesk](https://www.v2fy.com/p/2022-01-23-todesk-1642914753000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
