@@ -904,6 +904,9 @@
 [GitHub与乌克兰人民和国际社会团结在一起，昨日留言：今天文章价值观难得正确了一回](https://www.v2fy.com/p/2022-03-06-github-1646558786000/)
 
 
+[PicGo私有化图床插件](https://www.v2fy.com/p/2022-04-08-picgo-pi-1649395572000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
