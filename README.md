@@ -907,6 +907,9 @@
 [PicGo私有化图床插件](https://www.v2fy.com/p/2022-04-08-picgo-pi-1649395572000/)
 
 
+[Uninstall tool 3.6.0 授权版](https://www.v2fy.com/p/2022-04-15-uninstall-tool-1649991390000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
