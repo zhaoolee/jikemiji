@@ -910,6 +910,9 @@
 [Uninstall tool 3.6.0 授权版](https://www.v2fy.com/p/2022-04-15-uninstall-tool-1649991390000/)
 
 
+[参谋助手论：为首长服务的艺术](https://www.v2fy.com/p/2022-04-20-canmouzhushoulun-1650419941000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
