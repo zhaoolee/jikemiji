@@ -913,6 +913,9 @@
 [参谋助手论：为首长服务的艺术](https://www.v2fy.com/p/2022-04-20-canmouzhushoulun-1650419941000/)
 
 
+[经典解压软件WinRAR-2022-V6.11附带吾爱破解授权文件](https://www.v2fy.com/p/2022-04-24-winrar-1650768361000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
