@@ -922,6 +922,9 @@
 [开源免费软件推荐-独立调节mac OS运行App的音量](https://www.v2fy.com/p/2022-05-03-mac-bgm-1651559177000/)
 
 
+[想好好听歌？ QQ音乐精简版下载](https://www.v2fy.com/p/2022-05-11-qq-music-1652267193000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
