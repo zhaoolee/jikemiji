@@ -928,6 +928,9 @@
 [网易云音乐V4精简养老版](https://www.v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/)
 
 
+[为WordPress网站提供类似GitBook的侧边目录](https://www.v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
