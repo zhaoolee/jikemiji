@@ -931,6 +931,9 @@
 [为WordPress网站提供类似GitBook的侧边目录](https://www.v2fy.com/p/2022-05-22-wordpress-side-1653217493000/)
 
 
+[轻松从微软服务器高速下载各种版本的Windows镜像](https://www.v2fy.com/p/2022-07-18-download-windows-1658156978000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
