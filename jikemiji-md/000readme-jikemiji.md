@@ -934,6 +934,9 @@
 [轻松从微软服务器高速下载各种版本的Windows镜像](https://www.v2fy.com/p/2022-07-18-download-windows-1658156978000/)
 
 
+[用搜索Lite移除广告,优化安卓Color OS搜索体验](https://www.v2fy.com/p/2022-07-31-search-lite-1659257623000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
