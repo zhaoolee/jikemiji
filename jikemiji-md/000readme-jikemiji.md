@@ -937,6 +937,9 @@
 [用搜索Lite移除广告,优化安卓Color OS搜索体验](https://www.v2fy.com/p/2022-07-31-search-lite-1659257623000/)
 
 
+[获取Windows商店app离线安装包](https://www.v2fy.com/p/2022-08-30-mic-1661837657000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
