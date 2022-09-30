@@ -940,6 +940,9 @@
 [获取Windows商店app离线安装包](https://www.v2fy.com/p/2022-08-30-mic-1661837657000/)
 
 
+[如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://www.v2fy.com/p/2022-09-30-parallels-1664531254000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
