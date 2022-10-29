@@ -946,6 +946,9 @@
 [分享一波个人博客页面实时生成二维码脚本](https://www.v2fy.com/p/2022-10-15-qr-code-1665819346000/)
 
 
+[MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://www.v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
