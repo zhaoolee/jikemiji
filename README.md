@@ -949,6 +949,12 @@
 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://www.v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/)
 
 
+[分享使用git的实用小技巧](https://www.v2fy.com/p/2022-10-31-git-tips-1667197196000/)
+
+
+[折腾Transmission实现固定IP服务器BT做种全过程](https://www.v2fy.com/p/2022-12-25-bt-1671963832000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
