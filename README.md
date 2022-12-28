@@ -955,7 +955,7 @@
 [折腾Transmission实现固定IP服务器BT做种全过程](https://www.v2fy.com/p/2022-12-25-bt-1671963832000/)
 
 
-[为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://www.v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
+[提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://www.v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
 
 
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
