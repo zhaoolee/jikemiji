@@ -958,6 +958,9 @@
 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://www.v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/)
 
 
+[杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://www.v2fy.com/p/2022-12-29-mount-bt-1672309849000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
