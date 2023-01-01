@@ -961,6 +961,9 @@
 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://www.v2fy.com/p/2022-12-29-mount-bt-1672309849000/)
 
 
+[如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp公网iP实现）](https://www.v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
