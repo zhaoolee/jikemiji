@@ -964,6 +964,9 @@
 [如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://www.v2fy.com/p/2023-01-01-windows-remote-1672560763000/)
 
 
+[自建服务器远程游玩PS5不踩坑指南](https://www.v2fy.com/p/2023-01-02-ps5-frp-1672642919000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
