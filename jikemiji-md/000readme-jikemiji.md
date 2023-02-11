@@ -967,6 +967,9 @@
 [自建服务器远程游玩PS5不踩坑指南](https://www.v2fy.com/p/2023-01-02-ps5-frp-1672642919000/)
 
 
+[分享《女神异闻录5皇家版》Switch版一些有趣的截图](https://www.v2fy.com/p/2023-02-11-p5r-images-1676126519000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
