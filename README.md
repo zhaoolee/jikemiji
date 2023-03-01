@@ -976,6 +976,9 @@
 [开源项目在线将v2ray配置转换为Glados配置文件](https://www.v2fy.com/p/2023-02-26-v2ray-to-clash-1677393325000/)
 
 
+[通过新加坡阿里云访问ChatGPT](https://www.v2fy.com/p/2023-03-01-v2ray-1677654246000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
