@@ -244,6 +244,37 @@ mkdir /var/run/php73-fpm
 chown -R nginx:nginx /var/lib/php/session
 ```
 
+## 解决php-fpm重启后目录被清除的问题
+
+这里有个小问题，每次我们重启服务器后，所有临时目录和文件都将被清除，包括 /var/run/php73-fpm 目录。此目录是 PHP-FPM 进程运行时需要使用的目录，如果该目录不存在，PHP-FPM 进程将无法启动。因此，需要手动创建该目录以确保 PHP-FPM 进程正常启动。
+
+1. 首先，创建一个名为 php-fpm73-mkdir.service 的新文件，存储在 /etc/systemd/system/ 目录中。
+
+2. 在 /etc/systemd/system/php-fpm73-mkdir.service，添加以下内容，并保存。
+
+```
+[Unit]
+Description=Create /var/run/php73-fpm directory
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/mkdir /var/run/php73-fpm
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
+
+```
+
+3. 为php-fpm73-mkdir.service 设置开机启动
+
+```
+sudo systemctl start php-fpm73-mkdir.service
+sudo systemctl enable php-fpm73-mkdir.service
+
+```
+
 
 ##　为php-fpm添加开机启动
 
@@ -253,6 +284,9 @@ systemctl restart php-fpm
 # 新增启动项
 systemctl enable php-fpm
 ```
+
+
+
 
 ## 配置nginx
 
