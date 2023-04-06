@@ -988,6 +988,9 @@
 [女神异闻录5 开源在线怪盗信生成工具](https://www.v2fy.com/p/2023-03-27-p5r-create-1679900793000/)
 
 
+[How to buy virtual machines $2.5 in valtr](https://www.v2fy.com/p/2023-04-06-vultr-two-point-five-dollars-1680782308000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
