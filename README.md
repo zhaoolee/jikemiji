@@ -991,6 +991,9 @@
 [How to buy virtual machines $2.5 in valtr](https://www.v2fy.com/p/2023-04-06-vultr-two-point-five-dollars-1680782308000/)
 
 
+[自建VPS独享IP被ChatGPT封禁怎么办？ChatGPT会员不如买Token（某好友:谁TM用ChatGPT Plus! ChatGPT Api永生!）](https://www.v2fy.com/p/2023-04-18-chatgpt-dev-1681812847000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
