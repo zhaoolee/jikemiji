@@ -994,6 +994,9 @@
 [自建VPS独享IP被ChatGPT封禁怎么办？ChatGPT会员不如买Token（某好友:谁TM用ChatGPT Plus! ChatGPT Api永生!）](https://www.v2fy.com/p/2023-04-18-chatgpt-dev-1681812847000/)
 
 
+[如何清除微信广告？澳门电话卡申请遇到的坑，以及解决方案，你可知macao不是我真姓](https://www.v2fy.com/p/2023-04-20-macao-1681961212000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
