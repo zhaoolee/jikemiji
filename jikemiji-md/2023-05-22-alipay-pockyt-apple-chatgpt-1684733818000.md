@@ -1,12 +1,12 @@
 ---
-title: 通过Apple Store订阅ChatGPT PLUS 攻略
+title: 通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略
 ---
 
 上周五，美区Apple Store上架了ChatGPT App, 并提供了19.99美元的PLUS订阅服务。ChatGPT PLUS的网页版每三个小时只能问25条，而iOS版可以无限制使用ChatGPT 4 ！
 
-恰好这几天Depay升级维护，导致我的ChatGPT PLUS订阅无法续费，于是我就在Apple Store上完成了ChatGPT PLUS的服务（App Store订阅比Web版订阅每月便宜0.01美刀）。
+恰好这几天Depay升级维护，导致我的ChatGPT PLUS的Web Depay订阅无法续费，于是我就在Apple Store上订阅了ChatGPT PLUS的服务（App Store订阅比Web版订阅每月便宜0.01美刀）。
 
-ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过信用卡进行每月20美元的订阅, 还是通过Apple Store进行每月19.99的订阅, 都能享受到相同的ChatGPT PLUS的服务。
+ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过Depay信用卡进行每月20美元的订阅, 还是通过Apple Store进行每月19.99美元的订阅, 都能享受到相同的ChatGPT PLUS的服务。
 
 
 
@@ -14,7 +14,7 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过信用
 
 ## 通过Apple Store订阅ChatGPT PLUS的步骤
 
-首先得有一个美区App Store账号, 登录到App Store后即可搜索ChatGPT, 安装后, 即可进行PLUS会员内购。
+首先得有一个美区App Store账号, 登录到App Store后即可搜索ChatGPT, 安装后,  即可进行PLUS会员内购。
 
 
 
@@ -74,19 +74,25 @@ ChatGPT 的PLUS订阅是绑定固定账号的, 无论用户在Web版通过信用
 
 
 
-
+![image-20230522142829911](https://cdn.fangyuanxiaozhan.com/assets/1684736911073dQ0JKdBH.png)
 
 Enjoy it !
 
 
 
+## 小结
+
+
+
+订阅ChatGPT 几个月后，我感觉ChatGPT确实是好工具，但对于程序开发者而言，也没有特别好用，很多bug依然需要和ChatGPT4唠嗑很久才能找出解决方案。
+
+
+
+能充分利用ChatGPT确实能让工作省时省力，但总有20%的问题是ChatGPT也无法解决的，未来开发者就是要解决ChatGPT也无法解决的20%的问题。
+
 
 
  
-
-## 本文永久更新地址(欢迎来读留言,写评论):
-
-[https://www.v2fy.com/p/2023-05-22--1684733818000](https://www.v2fy.com/p/2023-05-22--1684733818000)
 
 ## 本文永久更新地址(欢迎来读留言,写评论):
 
