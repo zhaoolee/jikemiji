@@ -997,6 +997,9 @@
 [如何清除微信广告？澳门电话卡申请遇到的坑，以及解决方案，你可知macao不是我真姓](https://www.v2fy.com/p/2023-04-20-macao-1681961212000/)
 
 
+[通过Apple Store订阅ChatGPT PLUS 攻略](https://www.v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
