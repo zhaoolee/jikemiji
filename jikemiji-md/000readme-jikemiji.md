@@ -1000,6 +1000,9 @@
 [通过Apple Store购买礼品卡订阅ChatGPT PLUS细节攻略](https://www.v2fy.com/p/2023-05-22-alipay-pockyt-apple-chatgpt-1684733818000/)
 
 
+[《树莓派4B家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://www.v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
