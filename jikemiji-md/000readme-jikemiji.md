@@ -1003,6 +1003,9 @@
 [《树莓派4B家庭服务器搭建指南》第十六期：安装Calibre Web建立公网可访问私人电子书库](https://www.v2fy.com/p/2023-06-09-calibre-web-1686295170000/)
 
 
+[《树莓派4B家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建jellyfin私人影院](https://www.v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
