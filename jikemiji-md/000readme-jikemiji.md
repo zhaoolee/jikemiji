@@ -1006,6 +1006,9 @@
 [《树莓派4B家庭服务器搭建指南》第十七期：树莓派配合性能更好的闲置笔记本搭建开源免费jellyfin私人影院](https://www.v2fy.com/p/2023-06-10-jellyfin-1686388142000/)
 
 
+[《Stable Diffusion WebUI折腾实录》在Windows完成安装, 从社区下载热门模型，批量生成小姐姐图片](https://www.v2fy.com/p/2023-06-20-sd-1687246928000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
