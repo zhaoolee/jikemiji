@@ -1012,6 +1012,9 @@
 [《树莓派4B家庭服务器搭建指南》第十八期：代理Windows台式机支持Remote Desktop外网远程桌面连接, 随时玩转Stable Diffusion WebUI](https://www.v2fy.com/p/2023-06-22-windows-pi-1687427373000/)
 
 
+[无显示器玩转树莓派桌面版](https://www.v2fy.com/p/2023-06-23-pi-desktop-1687508111000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
