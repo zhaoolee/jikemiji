@@ -1030,6 +1030,9 @@
 [App备案潜在的一些问题](https://www.v2fy.com/p/2023-08-09-app-1691566152000/)
 
 
+[在Ubuntu20.04以Docker方式安装Mysql详细教程（支持外部连接，数据映射到物理磁盘，备份数据，导出数据，恢复数据）](https://www.v2fy.com/p/2023-08-12-mysql-docker-1691853033000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
