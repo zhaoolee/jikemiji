@@ -1033,6 +1033,9 @@
 [在Ubuntu20.04以Docker方式安装Mysql详细教程（支持外部连接，数据映射到物理磁盘，备份数据，导出数据，恢复数据）](https://www.v2fy.com/p/2023-08-12-mysql-docker-1691853033000/)
 
 
+[解决macOS自带smb服务显示大量图片文件夹很慢的问题](https://www.v2fy.com/p/2023-08-16-macOS-smb-1692176526000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
