@@ -1036,6 +1036,9 @@
 [解决macOS自带smb服务显示大量图片文件夹很慢的问题](https://www.v2fy.com/p/2023-08-16-macOS-smb-1692176526000/)
 
 
+[020《树莓派4B家庭服务器搭建指南》第二十期：在树莓派运行rsnapshot, 实现对服务器数据低成本增量本地备份](https://www.v2fy.com/p/2023-08-17-rsnapshot-1692258217000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
