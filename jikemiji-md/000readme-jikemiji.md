@@ -1045,6 +1045,9 @@
 [网盘传文件限速严重，来试试ssh内网穿透创建的公网到本地http服务器吧](https://www.v2fy.com/p/2023-08-20-sshd-port-forwarding-1692501226000/)
 
 
+[在安卓安装termux，实现电脑ssh登录并配置oh my zsh](https://www.v2fy.com/p/2023-08-21-frp-termux-1692581460000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
