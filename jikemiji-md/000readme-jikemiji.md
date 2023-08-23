@@ -1048,6 +1048,9 @@
 [在安卓安装termux，实现电脑ssh登录并配置oh my zsh](https://www.v2fy.com/p/2023-08-21-frp-termux-1692581460000/)
 
 
+[V2方圆备案完成](https://www.v2fy.com/p/2023-08-23-restore-1692790471000/)
+
+
 [《弹幕》有哪些搞笑的弹幕？](https://www.v2fy.com/p/barrage-000001/)
 
 
