@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/zhaoolee/jikemiji#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.3.4",
     "chmodr": "^1.2.0",
     "download": "^7.1.0",
     "fs-extra": "^8.1.0",
